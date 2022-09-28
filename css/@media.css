@@ -48,7 +48,7 @@
         .background {
             width: 100%;
             height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
+            background: url(/img/background/background.png) center top no-repeat fixed;
             background-size: cover;
         }
         .box-coaches {
@@ -59,7 +59,7 @@
         }
         .background-footer {
             max-height: 875px;
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
+            background: url(/img/background/footer-background/footer.png) center top no-repeat fixed;
             background-size: cover;
         }
         .contact {
@@ -113,18 +113,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -162,12 +152,6 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
         }
@@ -176,8 +160,6 @@
         }
         .background-footer {
             max-height: 835px;
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -205,18 +187,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -241,18 +213,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -280,18 +242,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -316,18 +268,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -352,18 +294,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -388,18 +320,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -424,18 +346,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -450,7 +362,7 @@
             max-width: 1350px;
         }
         .container {
-            background: url(/img/full_ROoayD3z.webp) left 90px no-repeat;
+            background: url(/img/background_header.png) left 90px no-repeat;
             background-size: cover;
             height: 100%;
         }
@@ -462,18 +374,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 100%;
-            height: 550px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: cover;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -504,20 +406,13 @@
             width: 80%;
         }
         .background {
-            width: 1340px;
             height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
         }
         .box-coaches {
             top: 610px;
         }
         .bubble {
             height: 1080px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -557,18 +452,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 1310px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contact {
             width: 160px;
@@ -601,18 +486,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 1270px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contacts {
             max-width: 60%;
@@ -652,18 +527,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 1230px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contacts {
             max-width: 60%;
@@ -700,22 +565,12 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 1200px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
-        }
         .box-coaches {
             top: 610px;
         }
         .coaches,
         .news {
             width: 1100px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contacts {
             max-width: 60%;
@@ -759,18 +614,8 @@
         .info {
             width: 80%;
         }
-        .background {
-            width: 1170px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
-        }
         .box-coaches {
             top: 610px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contacts {
             max-width: 60%;
@@ -811,12 +656,6 @@
         }
         .info {
             width: 80%;
-        }
-        .background {
-            width: 1130px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) left top no-repeat fixed;
-            background-size: 1280px 100%;
         }
         .box-coaches {
             margin-bottom: 20px;
@@ -866,10 +705,6 @@
         .img_2 {
             width: 355px;
             height: 356px;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contacts {
             max-width: 60%;
@@ -932,18 +767,8 @@
             width: 342px;
             height: 342px;
         }
-        .background {
-            width: 1090px;
-            height: 450px;
-            background: url(/img/background/full_g58RWWTT.webp) center top no-repeat fixed;
-            background-size: cover;
-        }
         .news {
             width: 100%;
-        }
-        .background-footer {
-            background: url(/img/background/footer-background/full_CUE1bk3E.webp) center top no-repeat fixed;
-            background-size: cover;
         }
         .contacts {
             max-width: 60%;
@@ -2041,6 +1866,10 @@
         .main {
             width: 400px;
         }
+        .header {
+            width: 25%;
+        }
+
         .content-services {
             width: 85%;
         }
