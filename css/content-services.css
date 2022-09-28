@@ -1,7 +1,4 @@
 .content-services {
-	/* position: relative;
-	top: 1110px;
-	left: 20%; */
 	margin: 0 auto;
 	width: 60%;
 	height: 100%;
@@ -71,7 +68,6 @@ h2 {
 
 .content-btn:hover {
 background-color: rgba(0, 89, 255, 0.226);
-/* color: #333; */
 transition: all 0.5s linear 0s;
 -webkit-transition: all 0.5s linear 0s;
 }
