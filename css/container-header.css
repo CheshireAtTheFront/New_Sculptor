@@ -1,0 +1,32 @@
+.container-box {
+    margin-bottom: 140px;
+    height: 988px;
+    background-color: #000;
+}
+
+.container {
+    background: url(/img/full_ROoayD3z.webp) center 90px no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+
+.container-section {
+    position: absolute;
+    top: 247px;
+    left: 19%;
+    padding: 110px 15px 0 15px;
+    width: 1113px;
+}
+
+.container-title {
+    color: #fff;
+    font-size: 55px;
+    line-height: 65px;
+}
+
+.container-text {
+    margin: 20px 0 50px 0;
+    color: #fff;
+    font-size: 18px;
+}

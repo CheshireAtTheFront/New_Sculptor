@@ -1,0 +1,81 @@
+.box-coaches {
+    position: relative;
+    top: 690px;
+    margin: 0 auto 130px;
+    padding: 0 16px;
+    width: 100%;
+    max-width: 1903px;
+    /* height: 630px; */
+    text-align: center;
+    background-color: #fff;
+}
+
+.coaches {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 1180px;
+    height: 550px;
+    overflow: hidden;
+}
+
+.mask-coaches {
+    position: relative;
+    height: 464px;
+}
+
+.mask-coaches .mask {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 100%;
+    width: 360px;
+    height: 464px;
+}
+
+.mask {
+    background-color: rgba(0, 80, 177, 0.596);
+    opacity: 0.85;
+    cursor: pointer;
+}
+
+.mask p {
+    font-size: 15px;
+    margin-top: 15px;
+    text-align: center;
+    padding: 0 10px 0 10px;
+    line-height: 23px;
+    color: #fff;
+}
+
+.mask-coaches:hover .mask {
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+    transition: all 0.5s ease-out;
+    -webkit-transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -o-transition: all 0.4s ease-out;
+    -ms-transition: all 0.4s ease-out;
+}
+
+.photo-coach {
+    margin-bottom: 15px;
+    width: 360px;
+    height: 464px;
+    cursor: pointer;
+}
+
+.coaches-span {
+    line-height: 36px;
+}
+
+.coaches-test {
+    font-size: 17px;
+    color: #919191;
+}
+
+.span-name {
+    font-size: 20px;
+    font-weight: 600;
+}
