@@ -357,11 +357,6 @@
         .main {
             max-width: 1350px;
         }
-        .container {
-            background: url(/img/background_header.png) left 90px no-repeat;
-            background-size: cover;
-            height: 100%;
-        }
         button {
             width: 165px;
             height: 43px;
