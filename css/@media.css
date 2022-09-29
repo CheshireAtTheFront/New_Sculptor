@@ -82,41 +82,8 @@
         .main {
             max-width: 1650px;
         }
-        .container-section {
-            width: 550px;
-            top: 235px;
-            left: 5%;
-        }
-        .container-title {
-            font-size: 70px;
-            line-height: 83px;
-        }
-        .container-text {
-            margin: 15px 0 40px 0;
-            font-size: 17px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
         .content-services {
             width: 74%;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -126,30 +93,7 @@
         }
         .container-section {
             width: 550px;
-            top: 235px;
             left: 5%;
-        }
-        .container-title {
-            font-size: 70px;
-            line-height: 83px;
-        }
-        .container-text {
-            margin: 15px 0 40px 0;
-            font-size: 17px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
         }
         .bubble {
             height: 1314px;
@@ -157,40 +101,14 @@
         .background-footer {
             max-height: 835px;
         }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1590px) {
         .main {
             max-width: 1590px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
         .content-services {
             width: 77%;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -198,54 +116,14 @@
         .main {
             max-width: 1550px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1525px) {
         .main {
             max-width: 1525px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
         .content-services {
             width: 80%;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -253,51 +131,11 @@
         .main {
             max-width: 1490px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1460px) {
         .main {
             max-width: 1460px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -305,25 +143,8 @@
         .main {
             max-width: 1420px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
         .description-album {
             width: 85%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -331,48 +152,11 @@
         .main {
             max-width: 1400px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .description-album {
-            width: 85%;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1370px) {
         .main {
             max-width: 1370px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -382,31 +166,16 @@
         }
         .container-section {
             width: 800px;
-            top: 235px;
             left: 4%;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
         }
         .content-services {
             width: 87%;
         }
-        .info {
-            width: 80%;
-        }
         .background {
-            height: 450px;
-        }
-        .box-coaches {
-            top: 610px;
+            height: 500px;
         }
         .bubble {
             height: 1080px;
-        }
-        .contact {
-            width: 160px;
         }
         .contacts {
             max-width: 75%;
@@ -421,36 +190,11 @@
         .tour {
             top: 46%;
         }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1320px) {
         .main {
             max-width: 1320px;
-        }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -458,36 +202,18 @@
         .main {
             max-width: 1280px;
         }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
+				.container {
+					background: url(../img/background_header.png) left 90px no-repeat;
+					background-size: cover;
+				}
         .content-services {
             width: 88%;
         }
         .description-album {
             width: 88%;
         }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
         .contacts {
             max-width: 60%;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
@@ -495,19 +221,9 @@
         .main {
             max-width: 1240px;
         }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
         .container-title {
             font-size: 67px;
             line-height: 78px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
         }
         .content-services {
             width: 93%;
@@ -515,78 +231,27 @@
         .description-album {
             width: 91%;
         }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contacts {
-            max-width: 60%;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1210px) {
         .main {
             max-width: 1210px;
         }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
         .container-text {
-            margin: 15px 0 40px 0;
             font-size: 14px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
         }
         .description-album {
             width: 93%;
         }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
         .coaches,
         .news {
             width: 1100px;
-        }
-        .contacts {
-            max-width: 60%;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
         }
     }
     
     @media(max-width: 1180px) {
         .main {
             max-width: 1180px;
-        }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
         }
         .content-services {
             width: 100%;
@@ -602,21 +267,6 @@
             width: 356px;
             height: 356px;
         }
-        .info {
-            width: 80%;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .contacts {
-            max-width: 60%;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1140px) {
@@ -628,29 +278,15 @@
             margin: 0;
             width: 100%;
         }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
         .container-title {
             font-size: 63px;
             line-height: 72px;
         }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
         .description-album {
             width: 98%;
         }
-        .info {
-            width: 80%;
-        }
         .box-coaches {
             margin-bottom: 20px;
-            top: 535px;
         }
         .coaches {
             display: flex;
@@ -697,15 +333,6 @@
             width: 355px;
             height: 356px;
         }
-        .contacts {
-            max-width: 60%;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
     }
     
     @media(max-width: 1100px) {
@@ -717,16 +344,6 @@
             margin: 0;
             width: 100%;
         }
-        .container-section {
-            width: 800px;
-            top: 235px;
-            left: 4%;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
         .block {
             width: 499px;
         }
@@ -735,9 +352,6 @@
         }
         .block-text {
             font-size: 15px;
-        }
-        .info {
-            width: 80%;
         }
         .box-plan {
             margin: 5px;
@@ -761,19 +375,12 @@
         .news {
             width: 100%;
         }
-        .contacts {
-            max-width: 60%;
-        }
         .contact {
-            width: 160px;
+            width: 164px;
         }
-        .streets {
-            width: 355px;
-        }
-        /* .tour {
-            width: 100%;
-            top: 48%;
-        } */
+				.streets {
+					width: 355px;
+				}
     }
     
     @media (max-width: 1080px) {
@@ -782,14 +389,6 @@
         }
         .description-album {
             width: 93%;
-        }
-        .img_1 {
-            width: 520px;
-            height: 350px;
-        }
-        .img_2 {
-            width: 342px;
-            height: 342px;
         }
     }
     
@@ -813,6 +412,13 @@
         .main {
             width: 1024px;
         }
+				.header {
+					width: 1024px;
+				}
+				.container {
+					background: url(../img/background_header.png) center 90px no-repeat;
+					background-size: cover;
+				}
         .container-title {
             font-size: 60px;
             line-height: 70px;
@@ -825,20 +431,31 @@
         .block {
             width: 471px;
         }
+				.img_1 {
+					width: 468px;
+					height: 320px;
+				}
+				.img_2 {
+					width: 307px;
+					height: 320px;
+				}
+				.bubble {
+					height: 1324px;
+				}
+				.contacts {
+					max-width: 62%;
+				}
+				.white {
+					margin-bottom: 40px;
+				}
+				.tour {
+					top: 50%;
+				}
     }
     
     @media (max-width: 980px) {
         .main {
             width: 980px;
-        }
-        .container-title {
-            font-size: 60px;
-            line-height: 70px;
-        }
-        button {
-            width: 175px;
-            height: 50px;
-            font-size: 15px;
         }
         .content-services {
             width: 65%;
@@ -871,15 +488,6 @@
         .main {
             width: 925px;
         }
-        .container-title {
-            font-size: 60px;
-            line-height: 70px;
-        }
-        button {
-            width: 175px;
-            height: 50px;
-            font-size: 15px;
-        }
         .content-services {
             width: 71%;
         }
@@ -892,20 +500,23 @@
         .main {
             width: 912px;
         }
-				.container {
+				.header {
+					width: 912px;
+				}
+				.container-box {
+					height: 1360px;
+				}
+				/* .container {
 					background: url(../img/background_header.png) left 90px no-repeat;
-					background-size: cover;
-					height: 100%;
-			}
-        .container-title {
-            font-size: 60px;
-            line-height: 70px;
-        }
-        button {
-            width: 175px;
-            height: 50px;
-            font-size: 15px;
-        }
+    			background-size: cover;
+				} */
+				.container-section{
+					top: 510px;
+    			left: 9%;
+				}
+				.container-text {
+					font-size: 20px;
+				}
         .content-services {
             width: 69%;
             max-height: 100%;
@@ -919,34 +530,42 @@
 				.img_1 {
 					width: 405px;
 					height: 266px;
-			}
+				}
 			.img_2 {
 				width: 267px;
 				height: 267px;
-		}
-		.coaches {
-			width: 42%;
-		}
+				}
+
+				.background {
+					background: url(../img/background/background.png) center center no-repeat;
+    			background-size: 100%;
+				}
+				.box-coaches {
+					top: 660px;
+				}
+			.coaches {
+				width: 42%;
+			}
+			.contacts {
+				max-width: 72%;
+			}
+			.bubble {
+				height: 1374px;
+			}
+				.tour {
+					top: 51%;
+				}
     }
     
     @media (max-width: 890px) {
         .main {
             width: 890px;
         }
-        .container-title {
-            font-size: 60px;
-            line-height: 70px;
-        }
-        button {
-            width: 175px;
-            height: 50px;
-            font-size: 15px;
-        }
         .description-album {
             width: 100%;
         }
         .box-coaches {
-            top: 540px;
+            top: 590px;
         }
         .coaches {
             flex-wrap: wrap;
@@ -983,9 +602,6 @@
             width: 250px;
             height: 250px;
         }
-        .box-coaches {
-            top: 540px;
-        }
         .contacts {
             max-width: 77%;
         }
@@ -1012,20 +628,15 @@
         .description-text {
             width: 100%;
         }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
+				.bubble {
+					height: 1354px;
+				}
         .contacts {
             max-width: 80%;
         }
+				.tour {
+					top: 47%;
+				}
     }
     
     @media (max-width: 768px) {
@@ -1036,13 +647,13 @@
 					width: 768px;
 				}
         .img_1 {
-            width: 359px;
-            height: 235px;
-        }
+					width: 363px;
+					height: 235px;
+				}
         .img_2 {
-            width: 236px;
-            height: 236px;
-        }
+					width: 239px;
+					height: 236px;
+				}
         .box-coaches {
             width: 100%;
         }
@@ -1077,13 +688,13 @@
             width: 750px;
         }
         .img_1 {
-            width: 360px;
-            height: 235px;
-        }
+					width: 354px;
+					height: 235px;
+				}
         .img_2 {
-            width: 236px;
-            height: 236px;
-        }
+					width: 233px;
+					height: 233px;
+				}
         .box-coaches {
             top: 540px;
         }
@@ -1124,13 +735,13 @@
             width: 85%;
         }
         .img_1 {
-            width: 380px;
-            height: 235px;
-        }
+					width: 344px;
+					height: 215px;
+				}
         .img_2 {
-            width: 250px;
-            height: 250px;
-        }
+					width: 226px;
+					height: 220px;
+				}
         .box-coaches {
             top: 540px;
         }
@@ -1151,14 +762,6 @@
         }
         .news-text {
             max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
         }
         .tour {
             top: 43%;
@@ -1174,17 +777,14 @@
         .main {
             width: 700px;
         }
-        .content-services {
-            width: 85%;
-        }
         .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
+					width: 330px;
+					height: 205px;
+				}
+				.img_2 {
+					width: 216px;
+					height: 210px;
+				}
         .box-coaches {
             top: 540px;
         }
@@ -1205,25 +805,6 @@
         }
         .news-text {
             max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
         }
     }
     
@@ -1231,17 +812,14 @@
         .main {
             width: 660px;
         }
-        .content-services {
-            width: 85%;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
+				.img_1 {
+					width: 309px;
+					height: 195px;
+				}
         .img_2 {
-            width: 250px;
-            height: 250px;
-        }
+					width: 202px;
+					height: 202px;
+			}
         .box-coaches {
             top: 540px;
         }
@@ -1263,42 +841,21 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
+        
     }
     
     @media (max-width: 630px) {
         .main {
             width: 630px;
         }
-        .content-services {
-            width: 85%;
-        }
         .img_1 {
-            width: 380px;
-            height: 235px;
-        }
+					width: 294px;
+					height: 190px;
+				}
         .img_2 {
-            width: 250px;
-            height: 250px;
-        }
+					width: 193px;
+					height: 193px;
+			}
         .box-coaches {
             top: 540px;
         }
@@ -1319,25 +876,6 @@
         }
         .news-text {
             max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
         }
     }
     
@@ -1345,9 +883,6 @@
         .main {
             width: 610px;
         }
-        .content-services {
-            width: 85%;
-        }
         .img_1 {
             width: 380px;
             height: 235px;
@@ -1376,17 +911,6 @@
         }
         .news-text {
             max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
         }
         .img_1 {
             width: 300px;
@@ -1401,9 +925,6 @@
     @media (max-width: 590px) {
         .main {
             width: 590px;
-        }
-        .content-services {
-            width: 85%;
         }
         .block-img {
             height: 275px;
@@ -1437,17 +958,6 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
             width: 300px;
             height: 190px;
@@ -1461,9 +971,6 @@
     @media (max-width: 570px) {
         .main {
             width: 570px;
-        }
-        .content-services {
-            width: 85%;
         }
         .img_1 {
             width: 380px;
@@ -1493,17 +1000,6 @@
         }
         .news-text {
             max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
         }
         .img_1 {
             width: 300px;
@@ -1522,9 +1018,21 @@
 				.header {
 					width: 540px;
 				}
-        .content-services {
-            width: 85%;
-        }
+				.container-box {
+					height: 720px;
+				}
+				.container-section {
+					width: 100%;
+					top: 190px;
+					left: 2%;
+				}
+				.container-title {
+					font-size: 47px;
+    			line-height: 50px;
+				}
+				.container-text {
+					font-size: 15px;
+				}
         .box-coaches {
             top: 540px;
         }
@@ -1546,33 +1054,27 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
 					width: 249px;
 					height: 180px;
-			}
-			.img_2 {
-				width: 162px;
-				height: 166px;
-		}
+				}
+				.img_2 {
+					width: 162px;
+					height: 166px;
+				}
+				.background {
+					background: url(../img/background/background.png) center center no-repeat;
+					background-size: 592px 400px;
+					height: 400px;
+				}	
+				.white {
+					margin-bottom: 70px;
+				}
     }
     
     @media (max-width: 530px) {
         .main {
             width: 530px;
-        }
-        .content-services {
-            width: 85%;
         }
         .img_1 {
             width: 380px;
@@ -1602,17 +1104,6 @@
         }
         .news-text {
             max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
         }
         .img_1 {
             width: 300px;
@@ -1639,9 +1130,6 @@
         }
         .container-text {
             font-size: 19px;
-        }
-        .content-services {
-            width: 85%;
         }
         .block-img {
             height: 265px;
@@ -1675,17 +1163,6 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
             width: 300px;
             height: 190px;
@@ -1699,9 +1176,6 @@
     @media (max-width: 480px) {
         .main {
             width: 480px;
-        }
-        .content-services {
-            width: 85%;
         }
         .block-img {
             height: 225px;
@@ -1735,17 +1209,6 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
             width: 300px;
             height: 190px;
@@ -1759,9 +1222,6 @@
     @media (max-width: 460px) {
         .main {
             width: 460px;
-        }
-        .content-services {
-            width: 85%;
         }
         .img_1 {
             width: 380px;
@@ -1792,17 +1252,6 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
             width: 300px;
             height: 190px;
@@ -1820,9 +1269,6 @@
 				.header {
 					width: 440px;
 				}
-        .content-services {
-            width: 85%;
-        }
         .box-coaches {
             top: 540px;
         }
@@ -1844,25 +1290,14 @@
         .news-text {
             max-width: 700px;
         }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
+					width: 199px;
+					height: 165px;
+			}
+			.img_2 {
+				width: 129px;
+				height: 129px;
+		}
     }
 
 		@media (max-width: 414px) {
@@ -1873,8 +1308,11 @@
 			.header {
 				width: 414px;
 			}
+			.container-box {
+				height: 896px;
+			}
 			.content-services {
-					width: 85%;
+					top: 260px;
 			}
 			.box-coaches {
 					top: 540px;
@@ -1897,17 +1335,6 @@
 			.news-text {
 					max-width: 700px;
 			}
-			.info {
-					width: 95%;
-					display: flex;
-					flex-direction: column;
-			}
-			.description {
-					margin-bottom: 20px;
-			}
-			.description-text {
-					width: 100%;
-			}
 			.img_1 {
 				width: 186px;
 				height: 140px;
@@ -1916,7 +1343,13 @@
 				width: 121px;
 				height: 121px;
 		}
-
+		.background {
+			background-size: 565px 412px;
+			height: 412px;
+		}
+		.tour {
+			top: 46%;
+		}
 			.footer {
 				width: 414px;
 			}
@@ -1928,6 +1361,13 @@
         }
 				.header {
 					width: 412px;
+				}
+				.container-box {
+					height: 915px;
+				}
+				.container {
+					background: url(../img/background_header.png) left 90px no-repeat;
+					background-size: cover;
 				}
         .content-services {
             width: 85%;
@@ -1966,15 +1406,6 @@
             display: flex;
             flex-direction: column;
         }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
-				.tour {
-					top: 46%;
-			}
     }
     
     @media (max-width: 400px) {
@@ -2016,11 +1447,7 @@
             display: flex;
             flex-direction: column;
         }
-        .description {
-            margin-bottom: 20px;
-        }
         .description-text {
-            width: 100%;
 						font-size: 14px;
         }
 				.description-album {
@@ -2105,12 +1532,6 @@
             display: flex;
             flex-direction: column;
         }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
         .img_1 {
             width: 158px;
             height: 110px;
@@ -2128,9 +1549,6 @@
         .contacts {
             height: 135px;
             margin: 0 0 20px;
-        }
-        .contact {
-            margin: 0 0 15px;
         }
         .bubble {
             height: 1319px;
@@ -2152,8 +1570,12 @@
 				width: 375px;
 			}
 
+			.container-box {
+				height: 667px;
+		}
+
 			.container-section {
-				width: 380px;
+				top: 170px;
 			}
 			.container-text {
 				font-size: 17px;
@@ -2192,12 +1614,6 @@
 					display: flex;
 					flex-direction: column;
 			}
-			.description {
-					margin-bottom: 20px;
-			}
-			.description-text {
-					width: 100%;
-			}
 			.img_1 {
 				width: 166px;
 				height: 113px;
@@ -2216,9 +1632,6 @@
 					height: 135px;
 					margin: 0 0 20px;
 			}
-			.contact {
-					margin: 0 0 15px;
-			}
 			.bubble {
 					height: 1319px;
 			}
@@ -2229,6 +1642,17 @@
 				width: 375px;
 		}
 
+	}
+		@media (max-width: 280px) {
+			/* .main {
+					width: 280px;
+			} */
+			.container-box {
+				height: 880px;
+			}
+			.container-section {
+				top: 250px;
+			}
 	}
     /* .mask-coaches {
 					width: 270px;
