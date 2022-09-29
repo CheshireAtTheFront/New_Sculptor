@@ -5,7 +5,7 @@
 }
 
 .container {
-    background: url(.../img/background_header.png) center 90px no-repeat;
+    background: url(../img/background_header.png) center 90px no-repeat;
     background-size: cover;
     height: 100%;
 }
