@@ -10,13 +10,12 @@
     height: 100%;
 }
 
-
 .container-section {
     position: absolute;
-    top: 247px;
+    top: 300px;
     left: 19%;
     padding: 110px 15px 0 15px;
-    width: 1113px;
+    width: 570px;
 }
 
 .container-title {
@@ -27,6 +26,6 @@
 
 .container-text {
     margin: 20px 0 50px 0;
-    color: #fff;
+    color: #f9f9fb;
     font-size: 18px;
 }

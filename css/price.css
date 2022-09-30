@@ -1,0 +1,21 @@
+th,
+td {
+    border: 1px solid #000;
+}
+
+th {
+    width: 100px;
+}
+
+.img-for-table {
+    position: absolute;
+}
+
+.img-for-table {
+    position: relative;
+    background: url(../img/прайс/photo_for_table.jpg) center top no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+}
