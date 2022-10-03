@@ -743,6 +743,17 @@
         .tour {
             top: 45%;
         }
+        /* прайс */
+        table {
+            line-height: 20px;
+        }
+        .table_bottom {
+            width: 48%;
+        }
+        .img-for-table {
+            width: 364px;
+            height: 338px;
+        }
     }
     
     @media (max-width: 750px) {
@@ -1104,6 +1115,18 @@
         .white {
             margin-bottom: 70px;
         }
+        /* прайс */
+        th {
+            line-height: 15px;
+        }
+        .table_bottom {
+            width: 56.2%;
+        }
+        .img-for-table {
+            right: 4%;
+            width: 206px;
+            height: 356px;
+        }
     }
     
     @media (max-width: 530px) {
@@ -1368,6 +1391,30 @@
         .footer {
             width: 414px;
         }
+        /* прайс */
+        table {
+            font-size: 12px;
+            line-height: 16px;
+        }
+        th {
+            line-height: 15px;
+            font-size: 11px;
+        }
+        .chart-main {
+            width: 100%;
+        }
+        .table_bottom {
+            width: 49.2%;
+        }
+        .td-price {
+            width: 95px;
+        }
+        .img-for-table {
+            right: 5.3%;
+            bottom: 3%;
+            width: 175px;
+            height: 300px;
+        }
     }
     
     @media (max-width: 412px) {
@@ -1438,6 +1485,30 @@
         }
         .footer {
             width: 412px;
+        }
+        /* прайс */
+        table {
+            font-size: 12px;
+            line-height: 16px;
+        }
+        th {
+            line-height: 12px;
+            font-size: 11px;
+        }
+        .chart-main {
+            width: 100%;
+        }
+        .table_bottom {
+            width: 49.2%;
+        }
+        .td-price {
+            width: 91px;
+        }
+        .img-for-table {
+            right: 5.3%;
+            bottom: 3%;
+            width: 174px;
+            height: 300px;
         }
     }
     
@@ -1522,6 +1593,23 @@
         }
         .footer {
             width: 393px;
+        }
+        /* прайс */
+        table {
+            font-size: 11px;
+            line-height: 14px;
+        }
+        th {
+            font-size: 10px;
+        }
+        .table_bottom {
+            width: 48.5%;
+        }
+        .img-for-table {
+            right: 5.3%;
+            bottom: 3.2%;
+            width: 165px;
+            height: 272px;
         }
     }
     
@@ -1676,6 +1764,20 @@
         .footer {
             width: 375px;
         }
+        /* прайс */
+        table {
+            font-size: 10px;
+            line-height: 13px;
+        }
+        th {
+            font-size: 9px;
+        }
+        .img-for-table {
+            right: 5.7%;
+            bottom: 3.4%;
+            width: 157px;
+            height: 257px;
+        }
     }
     
     @media (max-width: 360px) {
@@ -1742,3 +1844,12 @@
             top: 39%;
         }
     }
+    /* .table-tickets {
+			height: 716px;
+		}
+    .img-for-table {
+			right: 6%;
+			bottom: 16px;
+			width: 88.3%;
+			height: 257px;
+	} */
