@@ -520,6 +520,9 @@
         .header {
             width: 912px;
         }
+				.list_menu {
+					font-size: 20px;
+				}
         .container-box {
             height: 1360px;
         }
@@ -984,6 +987,10 @@
             max-width: 700px;
         }
         /* прайс */
+				th {
+					line-height: 15px;
+				}
+
         .table_bottom {
             width: 46.4%;
         }
@@ -1142,6 +1149,46 @@
             height: 356px;
         }
     }
+
+		@media (max-width: 555px) {
+			.main {
+				width: 555px;
+			}
+			.header {
+				width: 555px;
+			}
+			.container-box {
+				height: 1218px;
+			}
+			.container-section {
+				width: 546px;
+			}
+			.img_1 {
+				width: 255px;
+				height: 182px;
+			}
+			.img_2 {
+				width: 167px;
+				height: 167px;
+			}
+			.photo-news {
+				height: 380px;
+			}
+			.bubble {
+				height: 1245px;
+			}
+	/* прайс */
+		th {
+			padding: 2px;
+		}
+		.table_bottom {
+				width: 49.1%;
+		}
+		.img-for-table {
+			right: 3.9%;
+			width: 247px;
+		}
+	}
     
     @media (max-width: 540px) {
         .main {
@@ -1209,12 +1256,12 @@
             line-height: 15px;
         }
         .table_bottom {
-            width: 51.1%;
+					width: 49.4%;
         }
         .img-for-table {
             right: 4%;
             bottom: 2.4%;
-            width: 229px;
+            width: 238px;
             height: 356px;
         }
     }
@@ -1257,9 +1304,12 @@
             height: 196px;
         }
         /* прайс */
+				.table_bottom {
+					width: 50.4%;
+				}
         .img-for-table {
             bottom: 2.5%;
-            width: 225px;
+            width: 228px;
         }
     }
     
@@ -1316,11 +1366,11 @@
         }
         /* прайс */
         .table_bottom {
-            width: 52.5%;
+            width: 51.5%;
         }
         .img-for-table {
             right: 4.1%;
-            width: 209px;
+            width: 213px;
         }
     }
     
@@ -1366,11 +1416,11 @@
         }
         /* прайс */
         .table_bottom {
-            width: 54.5%;
+            width: 52.5%;
         }
         .img-for-table {
             right: 4.4%;
-            width: 186px;
+            width: 201px;
         }
     }
     
@@ -1424,7 +1474,7 @@
             width: 100%;
         }
         .table_bottom {
-            width: 45.8%;
+            width: 44.8%;
         }
         .td-price {
             width: 95px;
@@ -1432,7 +1482,7 @@
         .img-for-table {
             right: 5%;
             bottom: 3%;
-            width: 210px;
+            width: 214px;
             height: 300px;
         }
         .chart {
@@ -1475,12 +1525,12 @@
         }
         /* прайс */
         .table_bottom {
-            width: 47.2%;
+            width: 45.8%;
         }
         .img-for-table {
             right: 4.8%;
             bottom: 2.8%;
-            width: 195px;
+            width: 201px;
             height: 300px;
         }
     }
@@ -1553,7 +1603,7 @@
             width: 100%;
         }
         .table_bottom {
-            width: 49.2%;
+            width: 48.2%;
         }
         .td-price {
             width: 95px;
@@ -1561,7 +1611,7 @@
         .img-for-table {
             right: 5.3%;
             bottom: 3%;
-            width: 175px;
+            width: 178px;
             height: 300px;
         }
         .chart {
@@ -1652,7 +1702,7 @@
             width: 100%;
         }
         .table_bottom {
-            width: 49.2%;
+            width: 48.2%;
         }
         .td-price {
             width: 91px;
@@ -1660,7 +1710,7 @@
         .img-for-table {
             right: 5.3%;
             bottom: 3%;
-            width: 173px;
+            width: 177px;
             height: 299px;
         }
     }
@@ -1715,11 +1765,15 @@
             height: 196px;
         }
         /* прайс */
+				.table_bottom {
+					width: 48.6%;
+				}
         .td-price {
             width: 79px;
         }
         .img-for-table {
-            width: 167px;
+					right: 1.3%;
+          width: 185px;
         }
     }
     
@@ -1763,13 +1817,13 @@
             font-size: 10px;
         }
         .table_bottom {
-            width: 47.5%;
-        }
+					width: 46.2%;
+				}
         .img-for-table {
             right: 5.4%;
             bottom: 3.3%;
-            width: 169px;
-            height: 271px;
+						width: 174px;
+						height: 272px;
         }
     }
     
@@ -1848,12 +1902,15 @@
             width: 380px;
         }
         /* прайс */
+				.table_bottom {
+					width: 46.6%;
+			}
         .td-price {
             width: 70px;
         }
         .img-for-table {
-            right: 5.7%;
-            width: 162px;
+					right: 2.9%;
+					width: 176px;
         }
     }
     
@@ -1937,7 +1994,11 @@
             font-size: 10px;
             line-height: 13px;
         }
+				.table_bottom {
+					width: 47.6%;
+				}
         th {
+						padding: 0;
             font-size: 9px;
         }
         .td-price {
