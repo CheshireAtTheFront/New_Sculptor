@@ -6,17 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Главная</title>
+    <link rel="icon" href="https://www.scskulptor.ru/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="shortcut icon" href="https://www.scskulptor.ru/favicon.ico" type="image/vnd.microsoft.icon" />
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/container-header.css">
     <link rel="stylesheet" href="./css/content-services.css">
     <link rel="stylesheet" href="./css/content-description.css">
     <link rel="stylesheet" href="./css/price.css">
+    <link rel="stylesheet" href="./css/rules.css">
     <link rel="stylesheet" href="./css/coaches.css">
     <link rel="stylesheet" href="./css/news.css">
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/@media.css">
-    <!-- <link rel="stylesheet" href="style.sass"> -->
 </head>
 
 <body>
@@ -97,7 +99,7 @@
                 </div>
                 <a href="#season-tickets" class="content-link">
                     <span class="content-btn">
-                    Абонементы
+                    Прайс
 								</span>
                 </a>
             </div>
@@ -198,7 +200,18 @@
                             <br> Сб - с 12-00 до 20-00, Вс - выходной
                             <br> Телефон: 8 938 307 36 55
                         </p>
+                        <div class="box-rules" id="iframe-rules" style="display: none;">
+                            <div class="close"></div>
+                            <iframe src="./Pravila.html" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0" class="link-iframe">
+											</iframe>
+                        </div>
+                        <a src="./Pravila.html" name="targetframe" allowTransparency="true" scrolling="no" frameborder="0" class="content-link">
+                            <span class="content-btn link-rules" id="rules">
+															Правила
+													</span>
+                        </a>
                     </div>
+
                 </div>
             </div>
             <!-- /season-tickets -->
@@ -335,6 +348,7 @@
         <!-- /footer -->
     </div>
     <!-- /main -->
+    <script src="./js/script.js"></script>
 </body>
 
 </html>

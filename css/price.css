@@ -66,3 +66,34 @@ td {
     -webkit-box-shadow: 5px 5px 9px 5px rgb(255 255 255 / 23%), inset 4px 4px 15px 0px rgb(0 89 255 / 23%), inset 0px 0px 60px 40px rgb(87 178 255 / 78%);
     box-shadow: 5px 5px 9px 5px rgb(255 255 255 / 23%), inset 4px 4px 15px 0px rgb(0 89 255 / 23%), inset 0px 0px 60px 40px rgb(87 178 255 / 78%);
 }
+
+.link-rules {
+    margin: 20px auto 0;
+    padding: 12px;
+}
+
+.box-rules {
+    position: relative;
+    height: 687px;
+    width: 100%;
+}
+
+.close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.link-iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+}
