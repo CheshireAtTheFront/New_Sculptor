@@ -75,19 +75,12 @@ td {
 
 .box-rules {
     position: relative;
-    /* position: absolute; */
-    /* bottom:10px;
-    left: 29.2%; */
     height: 679px;
     width: 100%;
-    /* width: 790px; */
-    /* z-index: 1; */
 }
 
 .close {
     position: absolute;
-    /* right: -10px;
-    top: 25px; */
     right: 0;
     top: 25px;
     z-index: 1;
