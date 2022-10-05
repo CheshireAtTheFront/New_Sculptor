@@ -30,6 +30,7 @@
     bottom: 100%;
     width: 360px;
     height: 464px;
+    transition-duration: 0.5s;
 }
 
 .mask {
