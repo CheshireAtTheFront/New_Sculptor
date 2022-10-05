@@ -1,22 +1,22 @@
-function funRules() {
-	if (rules = true) {
-	let rules = document.getElementById('rules-js');
-	// let iframe = document.getElementById('iframe-rules');
-			rules.addEventListener("click", () => {
-			document.getElementById('iframe-rules').style = "display: block;"
+let rules = document.getElementById('rules-js');
+let close = document.getElementById('close-js');
+let iframe = document.getElementById('iframe-rules');
 
-		});
-	} 
-		if (close = true) {
-			let close = document.getElementById('close-js');
-			close.addEventListener("click", () => {
-			document.getElementById('iframe-rules').style = "display: none;"
-			});
-	
-		}
+rules.addEventListener("click", () => {
+    iframe.style = "display: block;"
+});
+close.addEventListener("click", () => {
+    iframe.style = "display: none;"
+});
+
+
+
+if (rules = true) {
+    // let rules = document.getElementById('rules-js');
+    // let iframe = document.getElementById('iframe-rules');
+
+} else if (close = true) {
+    // let close = document.getElementById('close-js');
+
+
 }
-funRules();
-
-// rules
-
-// let iframeRules =
