@@ -1279,6 +1279,14 @@
         .header {
             width: 414px;
         }
+				.logo {
+					min-width: 160px;
+					font-size: 13px;
+				}
+				.border {
+					margin-right: 12px;
+					width: 88px;
+				}
         .container-box {
             height: 896px;
         }
@@ -1350,9 +1358,9 @@
         .header {
             width: 412px;
         }
-        .logo {
+        /* .logo {
             font-size: 28px;
-        }
+        } */
         .header-contact {
             font-size: 11px;
         }

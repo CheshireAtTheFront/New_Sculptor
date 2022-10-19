@@ -23,26 +23,31 @@
 } */
 
 .logo {
-    width: 142px;
-    padding: 5px;
+		display: flex;
+		flex-direction: column;
+    min-width: 185px;
     font-weight: bold;
     text-align: center;
     color: #f9f9fb;
+		font-size: 14px;
+
 }
 
-.logo-h3 {
-    margin: 0 0 10px 73px;
-    font-size: 25px;
+.border {
+	align-self: center;
+	margin-bottom: 3px;
+	width: 90px;
+	height: 1px;
+	background: #fff;
 }
 
-.border_top {
-    margin-left: 43px;
+.logo-sport{
+    text-align: end;
     font-size: 20px;
-    border-top: 1px solid white;
 }
 
 .background-span {
-    margin-left: 8px;
+    align-self: flex-start;
     width: 123px;
     /* background: #fff; */
     border: 1px solid rgb(218, 218, 218);
