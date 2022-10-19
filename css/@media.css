@@ -176,7 +176,6 @@
         }
         .contacts {
             max-width: 75%;
-            margin: 0 0 20px;
         }
         .contact {
             margin: 0 0 15px;
@@ -206,6 +205,10 @@
         .description-album {
             width: 88%;
         }
+				.main-contacts {
+					position: relative;
+    			top: 50%;
+				}
         .contacts {
             max-width: 60%;
         }
@@ -243,6 +246,10 @@
         .coaches {
             width: 1100px;
         }
+				.footer-map {
+					margin: 0 auto;
+					width: 90%;
+				}
     }
     
     @media(max-width: 1180px) {
@@ -492,7 +499,7 @@
             font-size: 20px;
         }
         .container-box {
-            height: 1360px;
+            height: 1368px;
         }
         .container {
             background: url(../img/background_header.png) left 90px no-repeat;
@@ -545,6 +552,10 @@
             flex-direction: column;
             width: 42%;
         }
+				.main-contacts {
+					position: relative;
+					top: 52%;
+				}
         .contacts {
             max-width: 72%;
         }
@@ -662,8 +673,8 @@
             max-width: 80%;
         }
         .bubble {
-            max-height: 1424px;
-        }
+					max-height: 1422px;
+			}
         .tour {
             top: 50%;
         }
@@ -1052,9 +1063,15 @@
             background-size: 592px 400px;
             height: 400px;
         }
-        .bubble {
-            max-height: 1374px;
-        }
+				.main-contacts {
+					top: 46%;
+				}
+				.bubble {
+					max-height: 1374px;
+			}
+				.box-contacts {
+					margin-bottom: 30px;
+				}
         .tour {
             top: 45%;
         }
@@ -1280,12 +1297,12 @@
             width: 414px;
         }
 				.logo {
-					min-width: 160px;
+					min-width: 150px;
 					font-size: 13px;
 				}
 				.border {
 					margin-right: 12px;
-					width: 88px;
+					width: 80px;
 				}
         .container-box {
             height: 896px;
@@ -1298,7 +1315,7 @@
             top: 260px;
         }
         .box-coaches {
-            top: 540px;
+            top: 455px;
         }
         .img_1 {
             width: 186px;
@@ -1313,11 +1330,15 @@
             height: 412px;
         }
         .bubble {
-            max-height: 1374px;
-        }
+					max-height: 1246px;
+			}
         .tour {
             top: 46%;
         }
+				.main-contacts {
+					position: relative;
+					top: 44%;
+				}
         .footer {
             width: 414px;
         }
@@ -1387,7 +1408,7 @@
             height: 120px;
         }
         .box-coaches {
-            top: 540px;
+            top: 412px;
         }
         .info {
             width: 95%;
@@ -1436,9 +1457,9 @@
         .block-img {
             height: 195px;
         }
-        .box-coaches {
-            top: 540px;
-        }
+        /* .box-coaches {
+            top: 412px;
+        } */
         .info {
             width: 95%;
             display: flex;
@@ -1485,6 +1506,11 @@
             top: 250px;
             width: 393px;
         }
+				.line-height {
+					line-height: 45px;
+					margin-bottom: 20px;
+				}
+				
         .container-text {
             font-size: 18px;
         }
@@ -1496,6 +1522,10 @@
             width: 113px;
             height: 113px;
         }
+				.main-contacts {
+					top: 40%;
+				}
+
         .footer {
             width: 393px;
         }
@@ -1537,9 +1567,9 @@
         .block-text {
             text-align: justify;
         }
-        .box-coaches {
+        /* .box-coaches {
             top: 540px;
-        }
+        } */
         .title {
             font-size: 39px;
         }
@@ -1564,7 +1594,6 @@
         }
         .contacts {
             height: 135px;
-            margin: 0 0 20px;
         }
         .footer {
             width: 380px;
@@ -1605,9 +1634,9 @@
         .block-text {
             text-align: justify;
         }
-        .box-coaches {
+        /* .box-coaches {
             top: 540px;
-        }
+        } */
         .title {
             font-size: 39px;
         }
@@ -1630,10 +1659,7 @@
         .background-footer {
             max-height: 900px;
         }
-        .contacts {
-            height: 135px;
-            margin: 0 0 20px;
-        }
+
         .footer {
             width: 375px;
         }
@@ -1710,7 +1736,7 @@
             width: 280px;
         } */
         .logo {
-            font-size: 26px;
+            font-size: 14px;
         }
         .header-contact {
             width: 150px;
@@ -1722,8 +1748,5 @@
         }
         .container-section {
             top: 250px;
-        }
-        .bubble {
-            max-height: 1439px;
         }
     }
