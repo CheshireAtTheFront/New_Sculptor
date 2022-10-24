@@ -16,8 +16,13 @@ td {
 }
 
 .table-main {
+    display: flex;
     justify-content: center;
     flex-direction: column;
+    height: 100%;
+    color: #000;
+    text-align: center;
+    line-height: 25px;
 }
 
 .table-tickets {
