@@ -588,6 +588,9 @@
         .mask-coaches:hover .mask {
             bottom: 117px;
         }
+        .bubble {
+            max-height: 1374px;
+        }
     }
     
     @media (max-width: 860px) {
@@ -640,9 +643,6 @@
         }
         .contacts {
             max-width: 80%;
-        }
-        .bubble {
-            max-height: 1422px;
         }
         .tour {
             top: 50%;
@@ -754,14 +754,6 @@
         .content-services {
             width: 85%;
         }
-        .img_1 {
-            width: 344px;
-            height: 215px;
-        }
-        .img_2 {
-            width: 226px;
-            height: 220px;
-        }
         .box-coaches {
             top: 540px;
         }
@@ -772,6 +764,9 @@
             display: flex;
             flex-direction: column;
             height: 80px;
+        }
+        .background {
+            height: 488px;
         }
         /* прайс */
         .table_bottom {
@@ -786,16 +781,11 @@
         .main {
             width: 700px;
         }
-        .img_1 {
-            width: 330px;
-            height: 205px;
-        }
-        .img_2 {
-            width: 216px;
-            height: 210px;
-        }
         .box-coaches {
             top: 540px;
+        }
+        .background {
+            height: 466px;
         }
         /* прайс */
         .table_bottom {
@@ -814,16 +804,11 @@
         .main {
             width: 660px;
         }
-        .img_1 {
-            width: 309px;
-            height: 195px;
-        }
-        .img_2 {
-            width: 202px;
-            height: 202px;
-        }
         .box-coaches {
             top: 540px;
+        }
+        .background {
+            height: 440px;
         }
         /* прайс */
         .table_bottom {
@@ -839,16 +824,11 @@
         .main {
             width: 630px;
         }
-        .img_1 {
-            width: 294px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 193px;
-            height: 193px;
-        }
         .box-coaches {
             top: 540px;
+        }
+        .background {
+            height: 419px;
         }
         /* прайс */
         th {
@@ -880,13 +860,8 @@
         .box-coaches {
             top: 540px;
         }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
+        .background {
+            height: 405px;
         }
         /* прайс */
         .table_bottom {
@@ -905,24 +880,11 @@
         .block-img {
             height: 275px;
         }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
         .box-coaches {
             top: 540px;
         }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
+        .background {
+            height: 392px;
         }
         /* прайс */
         .table_bottom {
@@ -940,24 +902,11 @@
         .main {
             width: 570px;
         }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
         .box-coaches {
             top: 540px;
         }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
+        .background {
+            height: 379px;
         }
         /* прайс */
         .table_bottom {
@@ -984,13 +933,8 @@
         .container-section {
             width: 546px;
         }
-        .img_1 {
-            width: 255px;
-            height: 182px;
-        }
-        .img_2 {
-            width: 167px;
-            height: 167px;
+        .background {
+            height: 368px;
         }
         /* прайс */
         th {
@@ -1030,14 +974,6 @@
         .box-coaches {
             top: 540px;
         }
-        .img_1 {
-            width: 249px;
-            height: 180px;
-        }
-        .img_2 {
-            width: 162px;
-            height: 166px;
-        }
         .background {
             background: url(../img/background/background.png) center center no-repeat;
             background-size: 592px 400px;
@@ -1045,9 +981,6 @@
         }
         .main-contacts {
             top: 46%;
-        }
-        .bubble {
-            max-height: 1374px;
         }
         .box-contacts {
             margin-bottom: 30px;
@@ -1432,27 +1365,14 @@
         .block-img {
             height: 195px;
         }
-        /* .box-coaches {
-            top: 412px;
-        } */
+        .line-height {
+            line-height: 45px;
+            margin-bottom: 30px;
+        }
         .info {
             width: 95%;
             display: flex;
             flex-direction: column;
-        }
-        .description-text {
-            font-size: 14px;
-        }
-        .description-album {
-            margin-top: 60px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
         }
         /* прайс */
         .table_bottom {
