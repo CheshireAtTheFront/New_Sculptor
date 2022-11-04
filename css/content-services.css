@@ -1,73 +1,73 @@
 .content-services {
-	margin: 0 auto;
-	width: 60%;
-	height: 100%;
-	max-height: 1260px;
+    margin: 0 auto;
+    width: 60%;
+    height: 100%;
+    max-height: 1260px;
 }
 
 .title {
-	display: block;
-	margin: 0 0 60px;
-	text-align: center;
-	font-size: 40px;
-	color: #04090f;
-	font-weight: bold;
+    display: block;
+    margin: 0 0 60px;
+    text-align: center;
+    font-size: 40px;
+    color: #04090f;
+    font-weight: bold;
 }
 
 .block {
-	display: flex;
-	flex-direction: column;
-	margin: 15px 15px 40px 15px;
-	width: 525px;
-	min-height: 376px;
+    display: flex;
+    flex-direction: column;
+    margin: 15px 15px 40px 15px;
+    width: 525px;
+    min-height: 376px;
 }
 
 .content-block {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .block-img {
-	display: block;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .block-title,
 h2 {
-	margin: 30px 0 10px 0;
-	text-align: center;
+    margin: 30px 0 10px 0;
+    text-align: center;
 }
 
 .block-text {
-	max-width: 525px;
-	text-align: center;
-	color: #5c5c5c;
+    max-width: 525px;
+    text-align: center;
+    color: #5c5c5c;
 }
 
 .content-btn {
-	padding: 15px;
-	width: 150px;
-	height: 50px;
-	background-color: rgb(32, 32, 227);
-	border-radius: 4px;
-	font-size: 15px;
-	border-style: none;
-	text-align: center;
-	cursor: pointer;
+    padding: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(32, 32, 227);
+    border-radius: 4px;
+    font-size: 15px;
+    border-style: none;
+    text-align: center;
+    cursor: pointer;
 }
 
 .content-link {
-	color: #fff;
-	text-decoration: none;
+    color: #fff;
+    text-decoration: none;
 }
 
 .content-btn:hover {
-background-color: rgba(0, 89, 255, 0.226);
-transition: all 0.5s linear 0s;
--webkit-transition: all 0.5s linear 0s;
+    background-color: rgba(0, 89, 255, 0.226);
+    transition: all 0.5s linear 0s;
+    -webkit-transition: all 0.5s linear 0s;
 }
