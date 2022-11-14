@@ -1,2096 +1,1423 @@
-    @media(max-width: 1670px) {
-        .main {
-            max-width: 1670px;
-        }
-        .header {
-            width: 100%;
-        }
-        .menu {
-            padding: 0;
-            margin: 0;
-            width: 100%;
-        }
-        .container-section {
-            width: 550px;
-            top: 235px;
-            left: 5%;
-        }
-        .container-title {
-            font-size: 70px;
-            line-height: 83px;
-        }
-        .container-text {
-            margin: 15px 0 40px 0;
-            font-size: 17px;
-        }
-        button {
-            width: 165px;
-            height: 43px;
-            font-size: 13px;
-        }
-        .content-services {
-            width: 73%;
-            max-height: 100%;
-        }
-        .content-block {
-            width: 100%;
-        }
-        .block {
-            width: 500px;
-            height: 100%;
-        }
-        .description-album {
-            width: 87%;
-        }
-        .info {
-            width: 80%;
-        }
-        .background {
-            width: 100%;
-            height: 550px;
-        }
-        .box-coaches {
-            top: 610px;
-        }
-        .bubble {
-            width: 100%;
-        }
-        .background-footer {
-            max-height: 875px;
-        }
-        .contact {
-            width: 160px;
-        }
-        .streets {
-            width: 355px;
-        }
-        .tour {
-            top: 48%;
-        }
-        .frame {
-            width: 90%;
-        }
-        .footer {
-            width: 100%;
-        }
-        .content-footer {
-            width: 91%;
-        }
+@media(max-width: 1670px) {
+    .main {
+        max-width: 1670px;
     }
-    
-    @media(max-width: 1650px) {
-        .main {
-            max-width: 1650px;
-        }
-        .content-services {
-            width: 74%;
-        }
+    .header {
+        width: 100%;
     }
-    
-    @media(max-width: 1620px) {
-        .main {
-            max-width: 1620px;
-        }
-        .container-section {
-            width: 550px;
-            left: 5%;
-        }
-        .bubble {
-            height: 1314px;
-        }
-        .background-footer {
-            max-height: 835px;
-        }
+    .menu {
+        padding: 0;
+        margin: 0;
+        width: 100%;
     }
-    
-    @media(max-width: 1590px) {
-        .main {
-            max-width: 1590px;
-        }
-        .content-services {
-            width: 77%;
-        }
+    .container-section {
+        top: 235px;
+        left: 5%;
     }
-    
-    @media(max-width: 1550px) {
-        .main {
-            max-width: 1550px;
-        }
+    .container-title {
+        font-size: 70px;
+        line-height: 83px;
     }
-    
-    @media(max-width: 1525px) {
-        .main {
-            max-width: 1525px;
-        }
-        .content-services {
-            width: 80%;
-        }
+    .container-text {
+        margin: 15px 0 40px 0;
+        font-size: 17px;
     }
-    
-    @media(max-width: 1490px) {
-        .main {
-            max-width: 1490px;
-        }
+    button {
+        width: 165px;
+        height: 43px;
+        font-size: 13px;
     }
-    
-    @media(max-width: 1460px) {
-        .main {
-            max-width: 1460px;
-        }
+    .content-services {
+        width: 73%;
+        max-height: 100%;
     }
-    
-    @media(max-width: 1420px) {
-        .main {
-            max-width: 1420px;
-        }
-        .description-album {
-            width: 85%;
-        }
+    .content-block {
+        width: 100%;
     }
-    
-    @media(max-width: 1400px) {
-        .main {
-            max-width: 1400px;
-        }
+    .block {
+        width: 500px;
+        height: 100%;
     }
-    
-    @media(max-width: 1370px) {
-        .main {
-            max-width: 1370px;
-        }
+    .background {
+        width: 100%;
+        height: 550px;
     }
-    
-    @media(max-width: 1350px) {
-        .main {
-            max-width: 1350px;
-        }
-        .container-section {
-            width: 800px;
-            left: 4%;
-        }
-        .content-services {
-            width: 87%;
-        }
-        .background {
-            height: 500px;
-        }
-        .bubble {
-            height: 1080px;
-        }
-        .contacts {
-            max-width: 75%;
-            margin: 0 0 20px;
-        }
-        .contact {
-            margin: 0 0 15px;
-        }
-        .bubble {
-            height: 1314px;
-        }
-        .tour {
-            top: 46%;
-        }
+    .box-coaches {
+        top: 610px;
     }
-    
-    @media(max-width: 1320px) {
-        .main {
-            max-width: 1320px;
-        }
+    .bubble {
+        width: 100%;
+        height: 1484px;
     }
-    
-    @media(max-width: 1280px) {
-        .main {
-            max-width: 1280px;
-        }
-        .container {
-            background: url(../img/background_header.png) left 90px no-repeat;
-            background-size: cover;
-        }
-        .content-services {
-            width: 88%;
-        }
-        .description-album {
-            width: 88%;
-        }
-        .contacts {
-            max-width: 60%;
-        }
+    .background-footer {
+        max-height: 875px;
     }
-    
-    @media(max-width: 1240px) {
-        .main {
-            max-width: 1240px;
-        }
-        .container-title {
-            font-size: 67px;
-            line-height: 78px;
-        }
-        .content-services {
-            width: 93%;
-        }
-        .description-album {
-            width: 91%;
-        }
+    .contact {
+        width: 160px;
     }
-    
-    @media(max-width: 1210px) {
-        .main {
-            max-width: 1210px;
-        }
-        .container-text {
-            font-size: 14px;
-        }
-        .description-album {
-            width: 93%;
-        }
-        .coaches,
-        .news {
-            width: 1100px;
-        }
+    .streets {
+        width: 355px;
     }
-    
-    @media(max-width: 1180px) {
-        .main {
-            max-width: 1180px;
-        }
-        .content-services {
-            width: 100%;
-        }
-        .description-album {
-            width: 95%;
-        }
-        .img_1 {
-            width: 542px;
-            height: 360px;
-        }
-        .img_2 {
-            width: 356px;
-            height: 356px;
-        }
+    .tour {
+        top: 48%;
     }
-    
-    @media(max-width: 1140px) {
-        .main {
-            max-width: 1140px;
-        }
-        .menu {
-            padding: 0;
-            margin: 0;
-            width: 100%;
-        }
-        .container-title {
-            font-size: 63px;
-            line-height: 72px;
-        }
-        .description-album {
-            width: 98%;
-        }
-        .coaches {
-            display: flex;
-            flex-direction: column;
-            width: 35%;
-            height: 100%;
-        }
-        .mask-coaches {
-            position: relative;
-            overflow: hidden;
-            margin: 20px 0;
-            height: 100%;
-        }
-        .photo-coach {
-            width: 100%;
-        }
-        .mask-coaches:hover .mask {
-            bottom: 93px;
-        }
-        .news {
-            flex-wrap: wrap;
-            justify-content: center;
-            width: 69%;
-        }
-        .block-news {
-            padding: 140px 16px;
-        }
-        .box-news {
-            margin: 0 0 0 5px;
-        }
-        .box-news:first-child {
-            margin: 0 5px 0 0;
-        }
-        .box-news:last-child {
-            display: flex;
-            margin: 10px 0;
-            max-width: 734px;
-        }
-        .img_1 {
-            width: 540px;
-            height: 360px;
-        }
-        .img_2 {
-            width: 355px;
-            height: 356px;
-        }
+    .frame {
+        width: 90%;
     }
-    
-    @media(max-width: 1100px) {
-        .main {
-            width: 1100px;
-        }
-        .menu {
-            padding: 0;
-            margin: 0;
-            width: 100%;
-        }
-        .block {
-            width: 499px;
-        }
-        .block-img {
-            height: 347px;
-        }
-        .block-text {
-            font-size: 15px;
-        }
-        .box-plan {
-            margin: 5px;
-            border-radius: 10px;
-        }
-        .box-plan:first-child {
-            border-radius: 10px;
-        }
-        .box-plan:last-child {
-            width: 100%;
-            border-radius: 10px;
-        }
-        .img_1 {
-            width: 520px;
-            height: 350px;
-        }
-        .img_2 {
-            width: 342px;
-            height: 342px;
-        }
-        .news {
-            width: 100%;
-        }
-        .contact {
-            width: 164px;
-        }
-        .streets {
-            width: 355px;
-        }
+    .footer {
+        width: 100%;
     }
-    
-    @media (max-width: 1080px) {
-        .main {
-            width: 1080px;
-        }
-        .description-album {
-            width: 93%;
-        }
+    .content-footer {
+        width: 91%;
     }
-    
-    @media(max-width: 1065px) {
-        .main {
-            width: 1065px;
-        }
-        .box-main {
-            flex-wrap: wrap;
-            justify-content: center;
-        }
-        .box-plan:last-child {
-            max-width: 726px;
-        }
-        .block {
-            width: 491px;
-        }
-    }
-    
-    @media (max-width: 1024px) {
-        .main {
-            width: 1024px;
-        }
-        .header {
-            width: 1024px;
-        }
-        .container-box {
-            height: 600px;
-        }
-        .container {
-            background: url(../img/background_header.png) center 90px no-repeat;
-            background-size: cover;
-        }
-        .container-section {
-            top: 117px;
-            left: 3%;
-            width: 490px;
-        }
-        .container-title {
-            font-size: 60px;
-            line-height: 70px;
-        }
-        .container-text {
-            font-size: 19px;
-            line-height: 35px;
-        }
-        button {
-            width: 175px;
-            height: 50px;
-            font-size: 15px;
-        }
-        .block {
-            width: 471px;
-        }
-        .img_1 {
-            width: 468px;
-            height: 320px;
-        }
-        .img_2 {
-            width: 307px;
-            height: 320px;
-        }
-        .coaches {
-            flex-direction: row;
-            width: 100%;
-        }
-        .photo-coach {
-            width: 310px;
-            height: 425px;
-        }
-        .bubble {
-            height: 1315px;
-        }
-        .contacts {
-            max-width: 62%;
-        }
-        .white {
-            margin-bottom: 40px;
-        }
-        .tour {
-            top: 50%;
-        }
-    }
-    
-    @media (max-width: 980px) {
-        .main {
-            width: 980px;
-        }
-        .content-services {
-            width: 65%;
-        }
-        .block {
-            width: 565px;
-        }
-        .block-img {
-            height: 350px;
-        }
-        .grid-3col,
-        .grid-2col {
-            gap: 10px;
-        }
-        .description-album {
-            padding: 0 16px;
-            gap: 2px;
-        }
-        .img_1 {
-            width: 420px;
-            height: 260px;
-        }
-        .img_2 {
-            width: 276px;
-            height: 260px;
-        }
-    }
-    
-    @media (max-width: 945px) {
-        .main {
-            width: 925px;
-        }
-        .content-services {
-            width: 71%;
-        }
-        .block-img {
-            height: 320px;
-        }
-    }
-    
-    @media (max-width: 912px) {
-        .main {
-            width: 912px;
-        }
-        .header {
-            width: 912px;
-        }
-				.list_menu {
-					font-size: 20px;
-				}
-        .container-box {
-            height: 1360px;
-        }
-        .container {
-            background: url(../img/background_header.png) left 90px no-repeat;
-            background-size: cover;
-        }
-        .container-section {
-            top: 510px;
-            left: 9%;
-            width: 636px;
-        }
-        .container-text {
-            font-size: 20px;
-        }
-        .content-services {
-            width: 69%;
-            max-height: 100%;
-        }
-        .block {
-            width: 450px;
-        }
-        .block-img {
-            height: 308px;
-        }
-        .img_1 {
-            width: 405px;
-            height: 266px;
-        }
-        .img_2 {
-            width: 267px;
-            height: 267px;
-        }
-        .photo-coach {
-            width: 360px;
-            height: 464px;
-        }
-        .span-name {
-            font-size: 21px;
-        }
-        .coaches-test {
-            font-size: 18px;
-        }
-        .background {
-            background: url(../img/background/background.png) center center no-repeat;
-            background-size: 100%;
-        }
-        .box-coaches {
-            top: 660px;
-        }
-        .coaches {
-            flex-direction: column;
-            width: 42%;
-        }
-        .contacts {
-            max-width: 72%;
-        }
-        .bubble {
-            height: 1364px;
-        }
-        .tour {
-            top: 48%;
-        }
-        /* прайс */
-        table {
-            line-height: 21px;
-        }
-        .img-for-table {
-            bottom: 2.6%;
-            height: 348px;
-        }
-    }
-    
-    @media (max-width: 890px) {
-        .main {
-            width: 890px;
-        }
-        .description-album {
-            width: 100%;
-        }
-        .box-coaches {
-            top: 590px;
-        }
-        .coaches {
-            flex-wrap: wrap;
-            align-content: center;
-            height: 100%;
-            width: 709px;
-        }
-        .mask-coaches {
-            height: 550px;
-            position: relative;
-            overflow: hidden;
-        }
-        .photo-coach {
-            width: 354px;
-            height: 440px;
-        }
-        .mask-coaches .mask {
-            position: relative;
-            bottom: 109px;
-            width: 355px;
-            height: 440px;
-        }
-    }
-    
-    @media (max-width: 860px) {
-        .main {
-            width: 860px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .contacts {
-            max-width: 77%;
-        }
-    }
-    
-    @media (max-width: 820px) {
-        .main {
-            width: 820px;
-        }
-        .header {
-            width: 820px;
-        }
-        .list_menu {
-            display: none;
-        }
-        .header-contacts {
-            display: block;
-        }
-        .header-contact {
-            margin: 0;
-            width: 100%;
-            font-size: 12px;
-        }
-        .map {
-            margin-right: 2px;
-        }
-        .container-box {
-            height: 1180px;
-        }
-        .container-section {
-            top: 425px;
-            left: 4%;
-        }
-        .container-text {
-            font-size: 19px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description {
-            margin-bottom: 20px;
-        }
-        .description-text {
-            width: 100%;
-        }
-        .bubble {
-            height: 1294px;
-        }
-        .contacts {
-            max-width: 80%;
-        }
-        .tour {
-            top: 46%;
-        }
-        /* прайс */
-        .img-for-table {
-            width: 398px;
-        }
-    }
-    
-    @media (max-width: 768px) {
-        .main {
-            width: 768px;
-        }
-        .header {
-            width: 768px;
-        }
-        .container-box {
-            height: 1024px;
-        }
-        .container-section {
-            top: 345px;
-            left: 1%;
-        }
-        .img_1 {
-            width: 363px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 239px;
-            height: 236px;
-        }
-        .box-coaches {
-            width: 100%;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .photo-news {
-            width: 100%;
-            height: 430px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .box-plan:last-child {
-            max-width: 738px;
-        }
-        .bubble {
-            height: 1294px;
-        }
-        .contacts {
-            max-width: 85%;
-        }
-        .tour {
-            top: 45%;
-        }
-        /* прайс */
-        table {
-            line-height: 20px;
-        }
-        .table_bottom {
-            width: 48%;
-        }
-        .img-for-table {
-            right: 2.7%;
-            bottom: 2.9%;
-            width: 362px;
-            height: 334px;
-        }
-    }
-    
-    @media (max-width: 750px) {
-        .main {
-            width: 750px;
-        }
-        .img_1 {
-            width: 354px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 233px;
-            height: 233px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .coaches {
-            width: 100%;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .photo-news {
-            height: 355px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .box-plan:last-child {
-            max-width: 358px;
-        }
-        .contacts {
-            max-width: 88%;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 47.6%;
-        }
-        .td-price {
-            width: 195px;
-        }
-        .img-for-table {
-            right: 2.8%;
-            width: 356px;
-        }
-    }
-    
-    @media (max-width: 730px) {
-        .main {
-            width: 730px;
-        }
-        .content-services {
-            width: 85%;
-        }
-        .img_1 {
-            width: 344px;
-            height: 215px;
-        }
-        .img_2 {
-            width: 226px;
-            height: 220px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .tour {
-            top: 43%;
-        }
-        .contacts {
-            display: flex;
-            flex-direction: column;
-            height: 80px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 46.1%;
-        }
-        .td-price {
-            width: 175px;
-        }
-    }
-    
-    @media (max-width: 700px) {
-        .main {
-            width: 700px;
-        }
-        .img_1 {
-            width: 330px;
-            height: 205px;
-        }
-        .img_2 {
-            width: 216px;
-            height: 210px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 44%;
-        }
-        .td-price {
-            width: 154px;
-        }
-        .img-for-table {
-            right: 3%;
-            width: 352px;
-        }
-    }
-    
-    @media (max-width: 660px) {
-        .main {
-            width: 660px;
-        }
-        .img_1 {
-            width: 309px;
-            height: 195px;
-        }
-        .img_2 {
-            width: 202px;
-            height: 202px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 45.6%;
-        }
-        .img-for-table {
-            right: 3.1%;
-            width: 320px;
-        }
-    }
-    
-    @media (max-width: 630px) {
-        .main {
-            width: 630px;
-        }
-        .img_1 {
-            width: 294px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 193px;
-            height: 193px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        /* прайс */
-				th {
-					line-height: 15px;
-				}
+}
 
-        .table_bottom {
-            width: 46.4%;
-        }
-        .img-for-table {
-            right: 3.3%;
-            bottom: 2.7%;
-            width: 300px;
-            height: 336px;
-        }
+@media(max-width: 1650px) {
+    .main {
+        max-width: 1650px;
     }
-    
-    @media (max-width: 610px) {
-        .main {
-            width: 610px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 47.4%;
-        }
-        .img-for-table {
-            right: 3.4%;
-            width: 284px;
-        }
+    .content-services {
+        width: 74%;
     }
-    
-    @media (max-width: 590px) {
-        .main {
-            width: 590px;
-        }
-        .block-img {
-            height: 275px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 48.4%;
-        }
-        .img-for-table {
-            right: 3.5%;
-            bottom: 2.6%;
-            width: 268px;
-            height: 336px;
-        }
-    }
-    
-    @media (max-width: 570px) {
-        .main {
-            width: 570px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 49.2%;
-        }
-        .img-for-table {
-            right: 3.7%;
-            bottom: 2.5%;
-            width: 253px;
-            height: 356px;
-        }
-    }
+}
 
-		@media (max-width: 555px) {
-			.main {
-				width: 555px;
-			}
-			.header {
-				width: 555px;
-			}
-			.container-box {
-				height: 1218px;
-			}
-			.container-section {
-				width: 546px;
-			}
-			.img_1 {
-				width: 255px;
-				height: 182px;
-			}
-			.img_2 {
-				width: 167px;
-				height: 167px;
-			}
-			.photo-news {
-				height: 380px;
-			}
-			.bubble {
-				height: 1245px;
-			}
-	/* прайс */
-		th {
-			padding: 2px;
-		}
-		.table_bottom {
-				width: 49.1%;
-		}
-		.img-for-table {
-			right: 3.9%;
-			width: 247px;
-		}
-	}
-    
-    @media (max-width: 540px) {
-        .main {
-            width: 540px;
-        }
-        .header {
-            width: 540px;
-        }
-        .container-box {
-            height: 720px;
-        }
-        .container-section {
-            width: 528px;
-            top: 190px;
-            left: 0;
-        }
-        .container-title {
-            font-size: 47px;
-            line-height: 50px;
-        }
-        .container-text {
-            font-size: 18px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 249px;
-            height: 180px;
-        }
-        .img_2 {
-            width: 162px;
-            height: 166px;
-        }
-        .background {
-            background: url(../img/background/background.png) center center no-repeat;
-            background-size: 592px 400px;
-            height: 400px;
-        }
-        .tour {
-            top: 39%;
-        }
-        .bubble {
-            height: 1244px;
-        }
-        .white {
-            margin-bottom: 70px;
-        }
-        /* прайс */
-        th {
-            line-height: 15px;
-        }
-        .table_bottom {
-					width: 49.4%;
-        }
-        .img-for-table {
-            right: 4%;
-            bottom: 2.4%;
-            width: 238px;
-            height: 356px;
-        }
+@media(max-width: 1620px) {
+    .main {
+        max-width: 1620px;
     }
-    
-    @media (max-width: 530px) {
-        .main {
-            width: 530px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-				.table_bottom {
-					width: 50.4%;
-				}
-        .img-for-table {
-            bottom: 2.5%;
-            width: 228px;
-        }
+    .container-section {
+        left: 5%;
     }
-    
-    @media (max-width: 510px) {
-        .main {
-            width: 510px;
-        }
-        .container-section {
-            top: 318px;
-            left: 0;
-        }
-        .container-title {
-            font-size: 43px;
-            line-height: 47px;
-        }
-        .container-text {
-            font-size: 19px;
-        }
-        .block-img {
-            height: 265px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 51.5%;
-        }
-        .img-for-table {
-            right: 4.1%;
-            width: 213px;
-        }
+    .bubble {
+        max-height: 1440px;
     }
-    
-    @media (max-width: 480px) {
-        .main {
-            width: 480px;
-        }
-        .block-img {
-            height: 225px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 52.5%;
-        }
-        .img-for-table {
-            right: 4.4%;
-            width: 201px;
-        }
+    .background-footer {
+        max-height: 835px;
     }
-    
-    @media (max-width: 460px) {
-        .main {
-            width: 460px;
-        }
-        .img_1 {
-            width: 380px;
-            height: 235px;
-        }
-        .img_2 {
-            width: 250px;
-            height: 250px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-        table {
-            font-size: 12px;
-            line-height: 16px;
-        }
-        th {
-            line-height: 15px;
-            font-size: 11px;
-        }
-        .chart-main {
-            width: 100%;
-        }
-        .table_bottom {
-            width: 44.8%;
-        }
-        .td-price {
-            width: 95px;
-        }
-        .img-for-table {
-            right: 5%;
-            bottom: 3%;
-            width: 214px;
-            height: 300px;
-        }
-        .chart {
-            font-size: 13px;
-            line-height: 20px;
-        }
+}
+
+@media(max-width: 1590px) {
+    .main {
+        max-width: 1590px;
     }
-    
-    @media (max-width: 440px) {
-        .main {
-            width: 440px;
-        }
-        .header {
-            width: 440px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 199px;
-            height: 165px;
-        }
-        .img_2 {
-            width: 129px;
-            height: 129px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 45.8%;
-        }
-        .img-for-table {
-            right: 4.8%;
-            bottom: 2.8%;
-            width: 201px;
-            height: 300px;
-        }
+    .content-services {
+        width: 77%;
     }
-    
-    @media (max-width: 414px) {
-        .main {
-            width: 414px;
-        }
-        .header {
-            width: 414px;
-        }
-        .container-box {
-            height: 896px;
-        }
-        .container-section {
-            top: 290px;
-            width: 414px;
-        }
-        .content-services {
-            top: 260px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .photo-news {
-            height: 300px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .img_1 {
-            width: 186px;
-            height: 140px;
-        }
-        .img_2 {
-            width: 121px;
-            height: 121px;
-        }
-        .background {
-            background-size: 565px 412px;
-            height: 412px;
-        }
-        .tour {
-            top: 41%;
-        }
-        .footer {
-            width: 414px;
-        }
-        /* прайс */
-        table {
-            font-size: 12px;
-            line-height: 16px;
-        }
-        th {
-            line-height: 15px;
-            font-size: 11px;
-        }
-        .chart-main {
-            width: 100%;
-        }
-        .table_bottom {
-            width: 48.2%;
-        }
-        .td-price {
-            width: 95px;
-        }
-        .img-for-table {
-            right: 5.3%;
-            bottom: 3%;
-            width: 178px;
-            height: 300px;
-        }
-        .chart {
-            font-size: 13px;
-            line-height: 20px;
-        }
+}
+
+@media(max-width: 1550px) {
+    .main {
+        max-width: 1550px;
     }
-    
-    @media (max-width: 412px) {
-        .main {
-            width: 412px;
-        }
-        .header {
-            width: 412px;
-        }
-        .logo {
-            font-size: 28px;
-        }
-        .header-contact {
-            font-size: 11px;
-        }
-        .container-box {
-            height: 915px;
-        }
-        .container {
-            background: url(../img/background_header.png) left 90px no-repeat;
-            background-size: cover;
-        }
-        .container-section {
-            width: 400px;
-            top: 300px;
-        }
-        .content-services {
-            width: 85%;
-        }
-        .img_1 {
-            width: 185px;
-            height: 135px;
-        }
-        .img_2 {
-            width: 120px;
-            height: 120px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .photo-news {
-            height: 315px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .bubble {
-            height: 1244px;
-        }
-        .tour {
-            top: 41%;
-        }
-        .footer {
-            width: 412px;
-        }
-        /* прайс */
-        table {
-            font-size: 12px;
-            line-height: 16px;
-        }
-        th {
-            line-height: 12px;
-            font-size: 11px;
-        }
-        .chart-main {
-            width: 100%;
-        }
-        .table_bottom {
-            width: 48.2%;
-        }
-        .td-price {
-            width: 91px;
-        }
-        .img-for-table {
-            right: 5.3%;
-            bottom: 3%;
-            width: 177px;
-            height: 299px;
-        }
+}
+
+@media(max-width: 1525px) {
+    .main {
+        max-width: 1525px;
     }
-    
-    @media (max-width: 400px) {
-        .main {
-            width: 400px;
-        }
-        .header {
-            width: 100%;
-        }
-        .content-services {
-            width: 85%;
-        }
-        .block-img {
-            height: 195px;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .description-text {
-            font-size: 14px;
-        }
-        .description-album {
-            margin-top: 60px;
-        }
-        .img_1 {
-            width: 300px;
-            height: 190px;
-        }
-        .img_2 {
-            width: 196px;
-            height: 196px;
-        }
-        /* прайс */
-				.table_bottom {
-					width: 48.6%;
-				}
-        .td-price {
-            width: 79px;
-        }
-        .img-for-table {
-					right: 1.3%;
-          width: 185px;
-        }
+    .content-services {
+        width: 80%;
     }
-    
-    @media (max-width: 393px) {
-        .main {
-            width: 393px;
-        }
-        .header {
-            width: 393px;
-        }
-        .container-box {
-            height: 851px;
-        }
-        .container-section {
-            top: 250px;
-            width: 393px;
-        }
-        .container-text {
-            font-size: 18px;
-        }
-        .img_1 {
-            width: 175px;
-            height: 116px;
-        }
-        .img_2 {
-            width: 113px;
-            height: 113px;
-        }
-        .photo-news {
-            height: 275px;
-        }
-        .footer {
-            width: 393px;
-        }
-        /* прайс */
-        table {
-            font-size: 11px;
-            line-height: 14px;
-        }
-        th {
-            font-size: 10px;
-        }
-        .table_bottom {
-					width: 46.2%;
-				}
-        .img-for-table {
-            right: 5.4%;
-            bottom: 3.3%;
-						width: 174px;
-						height: 272px;
-        }
+}
+
+@media(max-width: 1490px) {
+    .main {
+        max-width: 1490px;
     }
-    
-    @media (max-width: 380px) {
-        .main {
-            width: 380px;
-        }
-        .header {
-            width: 100%;
-        }
-        .container-section {
-            width: 380px;
-        }
-        .container-text {
-            font-size: 17px;
-        }
-        .content-services {
-            width: 85%;
-        }
-        .block-text {
-            text-align: justify;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .title {
-            font-size: 39px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .photo-news {
-            height: 265px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .img_1 {
-            width: 158px;
-            height: 110px;
-        }
-        .img_2 {
-            width: 102px;
-            height: 102px;
-        }
-        .box-plan {
-            padding: 40px 10px;
-        }
-        .background-footer {
-            max-height: 900px;
-        }
-        .contacts {
-            height: 135px;
-            margin: 0 0 20px;
-        }
-        .bubble {
-            height: 1319px;
-        }
-        .tour {
-            top: 44%;
-        }
-        .footer {
-            width: 380px;
-        }
-        /* прайс */
-				.table_bottom {
-					width: 46.6%;
-			}
-        .td-price {
-            width: 70px;
-        }
-        .img-for-table {
-					right: 2.9%;
-					width: 176px;
-        }
+}
+
+@media(max-width: 1460px) {
+    .main {
+        max-width: 1460px;
     }
-    
-    @media (max-width: 375px) {
-        .main {
-            width: 375px;
-        }
-        .header {
-            width: 375px;
-        }
-        .container-box {
-            height: 667px;
-        }
-        .container-section {
-            width: 375px;
-            top: 170px;
-        }
-        .container-text {
-            font-size: 17px;
-        }
-        .content-services {
-            width: 85%;
-        }
-        .block-text {
-            text-align: justify;
-        }
-        .box-coaches {
-            top: 540px;
-        }
-        .title {
-            font-size: 39px;
-        }
-        .box-news {
-            max-width: 630px;
-            margin-left: 0;
-        }
-        .box-news:first-child {
-            margin: 0 0 10px;
-        }
-        .box-news:last-child {
-            display: block;
-            width: 630px;
-        }
-        .news-text {
-            max-width: 700px;
-        }
-        .info {
-            width: 95%;
-            display: flex;
-            flex-direction: column;
-        }
-        .img_1 {
-            width: 166px;
-            height: 113px;
-        }
-        .img_2 {
-            width: 107px;
-            height: 107px;
-        }
-        .box-plan {
-            padding: 40px 10px;
-        }
-        .background-footer {
-            max-height: 900px;
-        }
-        .contacts {
-            height: 135px;
-            margin: 0 0 20px;
-        }
-        .bubble {
-            height: 1310px;
-        }
-        .tour {
-            top: 37%;
-        }
-        .footer {
-            width: 375px;
-        }
-        /* прайс */
-        table {
-            font-size: 10px;
-            line-height: 13px;
-        }
-				.table_bottom {
-					width: 47.6%;
-				}
-        th {
-						padding: 0;
-            font-size: 9px;
-        }
-        .td-price {
-            width: 85px;
-        }
-        .img-for-table {
-            right: 5.7%;
-            bottom: 3.4%;
-            width: 160px;
-            height: 258px;
-        }
+}
+
+@media(max-width: 1420px) {
+    .main {
+        max-width: 1420px;
     }
-    
-    @media (max-width: 360px) {
-        .main {
-            width: 360px;
-        }
-        .header {
-            width: 360px;
-        }
-        .header-contact {
-            justify-content: flex-start;
-            width: 130px;
-            line-height: 17px;
-        }
-        .header-map {
-            width: 150px;
-            margin-left: -6px;
-            text-align: center;
-        }
-        .container-box {
-            height: 740px;
-        }
-        .container-section {
-            width: 100%;
-        }
-        .img_1 {
-            width: 159px;
-        }
-        .img_2 {
-            width: 103px;
-        }
-        .bubble {
-            height: 1310px;
-        }
-        .tour {
-            top: 38%;
-        }
-        .footer {
-            width: 360px;
-        }
-        /* прайс */
-        .table_bottom {
-            width: 48.9%;
-        }
-        .img-for-table {
-            right: 6%;
-            width: 148px;
-        }
+}
+
+@media(max-width: 1400px) {
+    .main {
+        max-width: 1400px;
     }
-    
-    @media (max-width: 280px) {
-        /* .main {
-					width: 280px;
-			} */
-        .logo {
-            font-size: 26px;
-        }
-        .header-contact {
-            width: 150px;
-            line-height: 21px;
-            justify-content: flex-start;
-        }
-        .container-box {
-            height: 880px;
-        }
-        .container-section {
-            top: 250px;
-        }
-        .bubble {
-            height: 1309px;
-        }
-        .tour {
-            top: 39%;
-        }
+}
+
+@media(max-width: 1370px) {
+    .main {
+        max-width: 1370px;
     }
-    /* .table-tickets {
-			height: 716px;
-		}
+}
+
+@media(max-width: 1350px) {
+    .main {
+        max-width: 1350px;
+    }
+    .container-section {
+        width: 800px;
+        left: 4%;
+    }
+    .content-services {
+        width: 87%;
+    }
+    .background {
+        height: 500px;
+    }
+    .contacts {
+        max-width: 75%;
+    }
+    .contact {
+        margin: 0 0 15px;
+    }
+    .tour {
+        top: 46%;
+    }
+}
+
+@media(max-width: 1320px) {
+    .main {
+        max-width: 1320px;
+    }
+}
+
+@media(max-width: 1280px) {
+    .main {
+        max-width: 1280px;
+    }
+    .container {
+        background: url(../img/background_header.png) left 90px no-repeat;
+        background-size: cover;
+    }
+    .content-services {
+        width: 88%;
+    }
+    .main-contacts {
+        position: relative;
+        top: 50%;
+    }
+    .contacts {
+        max-width: 60%;
+    }
+    .tour {
+        top: 49%;
+    }
+}
+
+@media(max-width: 1240px) {
+    .main {
+        max-width: 1240px;
+    }
+    .container-title {
+        font-size: 67px;
+        line-height: 78px;
+    }
+    .content-services {
+        width: 93%;
+    }
+}
+
+@media(max-width: 1210px) {
+    .main {
+        max-width: 1210px;
+    }
+    .container-text {
+        font-size: 14px;
+    }
+    .coaches {
+        width: 1100px;
+    }
+    .footer-map {
+        margin: 0 auto;
+        width: 90%;
+    }
+}
+
+@media(max-width: 1180px) {
+    .main {
+        max-width: 1180px;
+    }
+    .content-services {
+        width: 100%;
+    }
+}
+
+@media(max-width: 1140px) {
+    .main {
+        max-width: 1140px;
+    }
+    .container-title {
+        font-size: 63px;
+        line-height: 72px;
+    }
+    .coaches {
+        display: flex;
+        flex-direction: column;
+        width: 35%;
+        height: 100%;
+    }
+    .mask-coaches {
+        position: relative;
+        overflow: hidden;
+        margin: 20px 0;
+        height: 100%;
+    }
+    .photo-coach {
+        width: 100%;
+    }
+    .mask-coaches:hover .mask {
+        bottom: 93px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .main {
+        width: 1100px;
+    }
+    .block {
+        width: 499px;
+    }
+    .block-img {
+        height: 347px;
+    }
+    .block-text {
+        font-size: 15px;
+    }
+    .box-plan {
+        margin: 5px;
+        border-radius: 10px;
+    }
+    .box-plan:first-child {
+        border-radius: 10px;
+    }
+    .box-plan:last-child {
+        width: 100%;
+        border-radius: 10px;
+    }
+    .contact {
+        width: 164px;
+    }
+    .streets {
+        width: 355px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .main {
+        width: 1080px;
+    }
+}
+
+@media(max-width: 1065px) {
+    .main {
+        width: 1065px;
+    }
+    .box-main {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .box-plan:last-child {
+        max-width: 726px;
+    }
+    .block {
+        width: 491px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .main {
+        width: 1024px;
+    }
+    .header {
+        width: 1024px;
+    }
+    .container-box {
+        height: 600px;
+    }
+    .container {
+        background: url(../img/background_header.png) center 90px no-repeat;
+        background-size: cover;
+    }
+    .container-section {
+        top: 117px;
+        left: 3%;
+        width: 490px;
+    }
+    .container-title {
+        font-size: 60px;
+        line-height: 70px;
+    }
+    .container-text {
+        font-size: 19px;
+        line-height: 35px;
+    }
+    button {
+        width: 175px;
+        height: 50px;
+        font-size: 15px;
+    }
+    .info {
+        width: 100%;
+    }
+    .block {
+        width: 471px;
+    }
+    .coaches {
+        flex-direction: row;
+        width: 100%;
+    }
+    .photo-coach {
+        width: 310px;
+        height: 425px;
+    }
+    .mask-coaches .mask {
+        width: 100%;
+    }
+    .contacts {
+        max-width: 62%;
+    }
+    .tour {
+        top: 50%;
+    }
+}
+
+@media (max-width: 980px) {
+    .main {
+        width: 980px;
+    }
+    .content-services {
+        width: 65%;
+    }
+}
+
+@media (max-width: 945px) {
+    .main {
+        width: 925px;
+    }
+    .content-services {
+        width: 71%;
+    }
+}
+
+@media (max-width: 912px) {
+    .main {
+        width: 912px;
+    }
+    .header {
+        width: 912px;
+    }
+    .list_menu {
+        font-size: 20px;
+    }
+    .container-box {
+        height: 1368px;
+    }
+    .container {
+        background: url(../img/background_header.png) left 90px no-repeat;
+        background-size: cover;
+    }
+    .container-section {
+        top: 510px;
+        left: 9%;
+        width: 636px;
+    }
+    .container-text {
+        font-size: 20px;
+    }
+    .content-services {
+        width: 69%;
+        max-height: 100%;
+    }
+    .block {
+        width: 450px;
+    }
+    .photo-coach {
+        width: 360px;
+        height: 464px;
+    }
+    .span-name {
+        font-size: 21px;
+    }
+    .coaches-test {
+        font-size: 18px;
+    }
+    .background {
+        background: url(../img/background/background.png) center center no-repeat;
+        background-size: 100%;
+    }
+    .box-coaches {
+        top: 660px;
+    }
+    .coaches {
+        flex-direction: column;
+        width: 42%;
+    }
+    .main-contacts {
+        position: relative;
+        top: 52%;
+    }
+    .contacts {
+        max-width: 72%;
+    }
+    .tour {
+        top: 53%;
+    }
+    /* прайс */
+    table {
+        line-height: 21px;
+    }
     .img-for-table {
-			right: 6%;
-			bottom: 16px;
-			width: 88.3%;
-			height: 257px;
-	} */
+        bottom: 2.6%;
+        height: 348px;
+    }
+}
+
+@media (max-width: 890px) {
+    .main {
+        width: 890px;
+    }
+    .box-coaches {
+        top: 590px;
+    }
+    .coaches {
+        flex-wrap: wrap;
+        align-content: center;
+        height: 100%;
+        width: 709px;
+    }
+    .mask-coaches {
+        height: 550px;
+        position: relative;
+        overflow: hidden;
+    }
+    .photo-coach {
+        width: 328px;
+        height: 433px;
+    }
+    .mask-coaches .mask {
+        position: absolute;
+        bottom: 100%;
+        width: 328px;
+        height: 433px;
+    }
+    .mask-coaches:hover .mask {
+        bottom: 117px;
+    }
+    .bubble {
+        max-height: 1374px;
+    }
+}
+
+@media (max-width: 860px) {
+    .main {
+        width: 860px;
+    }
+    .contacts {
+        max-width: 77%;
+    }
+}
+
+@media (max-width: 820px) {
+    .main {
+        width: 820px;
+    }
+    .header {
+        width: 820px;
+    }
+    .map {
+        margin-right: 2px;
+    }
+    .container-box {
+        height: 1180px;
+    }
+    .container-section {
+        top: 425px;
+        left: 4%;
+    }
+    .container-text {
+        font-size: 19px;
+    }
+    .info {
+        width: 85%;
+        display: flex;
+        flex-direction: column;
+    }
+    .description {
+        margin-bottom: 20px;
+    }
+    .description-text {
+        width: 100%;
+    }
+    .contacts {
+        max-width: 80%;
+    }
+    .tour {
+        top: 50%;
+    }
+    /* прайс */
+    .img-for-table {
+        width: 398px;
+    }
+}
+
+@media (max-width: 768px) {
+    .main {
+        width: 768px;
+    }
+    .header {
+        width: 768px;
+    }
+    .header-contacts {
+        display: block;
+    }
+    .header-contact {
+        margin: 0;
+        width: 100%;
+        font-size: 14px;
+    }
+    .list_menu {
+        display: none;
+    }
+    .container-box {
+        height: 1024px;
+    }
+    .container-section {
+        top: 345px;
+        left: 1%;
+    }
+    .box-coaches {
+        width: 100%;
+    }
+    .box-plan:last-child {
+        max-width: 738px;
+    }
+    .contacts {
+        max-width: 85%;
+    }
+    /* прайс */
+    table {
+        line-height: 20px;
+    }
+    .table_bottom {
+        width: 48%;
+    }
+    .img-for-table {
+        right: 2.7%;
+        bottom: 2.9%;
+        width: 362px;
+        height: 334px;
+    }
+}
+
+@media (max-width: 750px) {
+    .main {
+        width: 750px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .coaches {
+        width: 100%;
+    }
+    .box-plan:last-child {
+        max-width: 358px;
+    }
+    .contacts {
+        max-width: 88%;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 47.6%;
+    }
+    .td-price {
+        width: 195px;
+    }
+    .img-for-table {
+        right: 2.8%;
+        width: 356px;
+    }
+}
+
+@media (max-width: 730px) {
+    .main {
+        width: 730px;
+    }
+    .content-services {
+        width: 85%;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .tour {
+        top: 43%;
+    }
+    .contacts {
+        display: flex;
+        flex-direction: column;
+        height: 80px;
+    }
+    .background {
+        height: 488px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 46.1%;
+    }
+    .td-price {
+        width: 175px;
+    }
+}
+
+@media (max-width: 700px) {
+    .main {
+        width: 700px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        height: 466px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 44%;
+    }
+    .td-price {
+        width: 154px;
+    }
+    .img-for-table {
+        right: 3%;
+        width: 352px;
+    }
+}
+
+@media (max-width: 660px) {
+    .main {
+        width: 660px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        height: 440px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 45.6%;
+    }
+    .img-for-table {
+        right: 3.1%;
+        width: 320px;
+    }
+}
+
+@media (max-width: 630px) {
+    .main {
+        width: 630px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        height: 419px;
+    }
+    /* прайс */
+    th {
+        line-height: 15px;
+    }
+    .table_bottom {
+        width: 46.4%;
+    }
+    .img-for-table {
+        right: 3.3%;
+        bottom: 2.7%;
+        width: 300px;
+        height: 336px;
+    }
+}
+
+@media (max-width: 610px) {
+    .main {
+        width: 610px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        height: 405px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 47.4%;
+    }
+    .img-for-table {
+        right: 3.4%;
+        width: 284px;
+    }
+}
+
+@media (max-width: 590px) {
+    .main {
+        width: 590px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        height: 392px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 48.4%;
+    }
+    .img-for-table {
+        right: 3.5%;
+        bottom: 2.6%;
+        width: 268px;
+        height: 336px;
+    }
+}
+
+@media (max-width: 570px) {
+    .main {
+        width: 570px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        height: 379px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 49.2%;
+    }
+    .img-for-table {
+        right: 3.7%;
+        bottom: 2.5%;
+        width: 253px;
+        height: 356px;
+    }
+}
+
+@media (max-width: 555px) {
+    .main {
+        width: 555px;
+    }
+    .header {
+        width: 555px;
+    }
+    .container-box {
+        height: 1218px;
+    }
+    .container-section {
+        width: 546px;
+    }
+    .background {
+        height: 368px;
+    }
+    /* прайс */
+    th {
+        padding: 2px;
+    }
+    .table_bottom {
+        width: 49.1%;
+    }
+    .img-for-table {
+        right: 3.9%;
+        width: 247px;
+    }
+}
+
+@media (max-width: 540px) {
+    .main {
+        width: 540px;
+    }
+    .header {
+        width: 540px;
+    }
+    .container-box {
+        height: 720px;
+    }
+    .container-section {
+        width: 528px;
+        top: 190px;
+        left: 0;
+    }
+    .container-title {
+        font-size: 47px;
+        line-height: 50px;
+    }
+    .container-text {
+        font-size: 18px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    .background {
+        background: url(../img/background/background.png) center center no-repeat;
+        background-size: 592px 400px;
+        height: 400px;
+    }
+    .main-contacts {
+        top: 46%;
+    }
+    .box-contacts {
+        margin-bottom: 30px;
+    }
+    .tour {
+        top: 45%;
+    }
+    /* прайс */
+    th {
+        line-height: 15px;
+    }
+    .table_bottom {
+        width: 49.4%;
+    }
+    .img-for-table {
+        right: 4%;
+        bottom: 2.4%;
+        width: 238px;
+        height: 356px;
+    }
+}
+
+@media (max-width: 530px) {
+    .main {
+        width: 530px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 50.4%;
+    }
+    .img-for-table {
+        bottom: 2.5%;
+        width: 228px;
+    }
+}
+
+@media (max-width: 510px) {
+    .main {
+        width: 510px;
+    }
+    .container-section {
+        top: 318px;
+        left: 0;
+    }
+    .container-title {
+        font-size: 43px;
+        line-height: 47px;
+    }
+    .container-text {
+        font-size: 19px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 51.5%;
+    }
+    .img-for-table {
+        right: 4.1%;
+        width: 213px;
+    }
+}
+
+@media (max-width: 480px) {
+    .main {
+        width: 480px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 52.5%;
+    }
+    .img-for-table {
+        right: 4.4%;
+        width: 201px;
+    }
+}
+
+@media (max-width: 460px) {
+    .main {
+        width: 460px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    /* прайс */
+    table {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    th {
+        line-height: 15px;
+        font-size: 11px;
+    }
+    .chart-main {
+        width: 100%;
+    }
+    .table_bottom {
+        width: 44.8%;
+    }
+    .td-price {
+        width: 95px;
+    }
+    .img-for-table {
+        right: 5%;
+        bottom: 3%;
+        width: 214px;
+        height: 300px;
+    }
+    .chart {
+        font-size: 13px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 440px) {
+    .main {
+        width: 440px;
+    }
+    .header {
+        width: 440px;
+    }
+    .container-box {
+        height: 877px;
+    }
+    .container-section {
+        width: 440px;
+    }
+    .box-coaches {
+        top: 540px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 45.8%;
+    }
+    .img-for-table {
+        right: 4.8%;
+        bottom: 2.8%;
+        width: 201px;
+        height: 300px;
+    }
+}
+
+@media (max-width: 425px) {
+    .main {
+        width: 425px;
+    }
+    .header {
+        width: 425px;
+    }
+    .container-section {
+        width: 425px;
+    }
+    .td-text {
+        width: 178px;
+    }
+    .img-for-table {
+        width: 192px;
+    }
+}
+
+@media (max-width: 414px) {
+    .main {
+        width: 414px;
+    }
+    .header {
+        width: 414px;
+    }
+    .logo {
+        min-width: 150px;
+        font-size: 13px;
+    }
+    .border {
+        margin-right: 12px;
+        width: 80px;
+    }
+    .container-box {
+        height: 896px;
+    }
+    .container-section {
+        top: 290px;
+        width: 414px;
+    }
+    .content-services {
+        top: 260px;
+    }
+    .box-coaches {
+        top: 455px;
+    }
+    .background {
+        background-size: 565px 412px;
+        height: 412px;
+    }
+    .bubble {
+        max-height: 1246px;
+    }
+    .tour {
+        top: 46%;
+    }
+    .main-contacts {
+        position: relative;
+        top: 44%;
+    }
+    .footer {
+        width: 414px;
+    }
+    /* прайс */
+    table {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    th {
+        line-height: 15px;
+        font-size: 11px;
+    }
+    .chart-main {
+        width: 100%;
+    }
+    .table_bottom {
+        width: 48.2%;
+    }
+    .td-price {
+        width: 110px;
+    }
+    .img-for-table {
+        right: 4.3%;
+        width: 182px;
+    }
+    .chart {
+        font-size: 13px;
+        line-height: 20px;
+    }
+}
+
+@media (max-width: 412px) {
+    .main {
+        width: 412px;
+    }
+    .header {
+        width: 412px;
+    }
+    .header-contact {
+        font-size: 13px;
+    }
+    .container-box {
+        height: 915px;
+    }
+    .container {
+        background: url(../img/background_header.png) left 90px no-repeat;
+        background-size: cover;
+    }
+    .container-section {
+        width: 400px;
+        top: 300px;
+    }
+    .content-services {
+        width: 85%;
+    }
+    .box-coaches {
+        top: 412px;
+    }
+    .info {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer {
+        width: 412px;
+    }
+    /* прайс */
+    table {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    th {
+        line-height: 12px;
+        font-size: 11px;
+    }
+    .chart-main {
+        width: 100%;
+    }
+    .table_bottom {
+        width: 47.2%;
+    }
+    .td-price {
+        width: 93px;
+    }
+    .img-for-table {
+        right: 4.7%;
+        bottom: 3%;
+        width: 182px;
+        height: 299px;
+    }
+}
+
+@media (max-width: 400px) {
+    .main {
+        width: 400px;
+    }
+    .header {
+        width: 100%;
+    }
+    .content-services {
+        width: 85%;
+    }
+    .line-height {
+        line-height: 45px;
+        margin-bottom: 30px;
+    }
+    .info {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 48.6%;
+    }
+    .img-for-table {
+        right: 1.3%;
+        width: 185px;
+    }
+}
+
+@media (max-width: 393px) {
+    .main {
+        width: 393px;
+    }
+    .header {
+        width: 393px;
+    }
+    .container-box {
+        height: 851px;
+    }
+    .container-section {
+        top: 250px;
+        width: 393px;
+    }
+    .line-height {
+        line-height: 45px;
+        margin-bottom: 20px;
+    }
+    .container-text {
+        font-size: 18px;
+    }
+    .main-contacts {
+        top: 40%;
+    }
+    .footer {
+        width: 393px;
+    }
+    /* прайс */
+    table {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    th {
+        font-size: 10px;
+    }
+    .table_bottom {
+        width: 46.2%;
+    }
+    .img-for-table {
+        right: 5.4%;
+        bottom: 3.3%;
+        width: 174px;
+        height: 272px;
+    }
+}
+
+@media (max-width: 380px) {
+    .main {
+        width: 380px;
+    }
+    .header {
+        width: 100%;
+    }
+    .container-section {
+        width: 380px;
+    }
+    .container-text {
+        font-size: 17px;
+    }
+    .content-services {
+        width: 85%;
+    }
+    .block-text {
+        text-align: justify;
+    }
+    .title {
+        font-size: 39px;
+    }
+    .info {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .box-plan {
+        padding: 40px 10px;
+    }
+    .background-footer {
+        max-height: 900px;
+    }
+    .contacts {
+        height: 135px;
+    }
+    .footer {
+        width: 380px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 46.6%;
+    }
+    .td-price {
+        width: 70px;
+    }
+    .img-for-table {
+        right: 2.9%;
+        width: 176px;
+    }
+}
+
+@media (max-width: 375px) {
+    .main {
+        width: 375px;
+    }
+    .header {
+        width: 375px;
+    }
+    .container-box {
+        height: 667px;
+    }
+    .container-section {
+        width: 375px;
+        top: 170px;
+    }
+    .container-text {
+        font-size: 17px;
+    }
+    .content-services {
+        width: 85%;
+    }
+    .block-text {
+        text-align: justify;
+    }
+    .title {
+        font-size: 39px;
+    }
+    .info {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+    }
+    .box-plan {
+        padding: 40px 10px;
+    }
+    .background-footer {
+        max-height: 900px;
+    }
+    .footer {
+        width: 375px;
+    }
+    /* прайс */
+    table {
+        font-size: 10px;
+        line-height: 13px;
+    }
+    .table_bottom {
+        width: 47.6%;
+    }
+    th {
+        padding: 0;
+        font-size: 9px;
+    }
+    .td-price {
+        width: 85px;
+    }
+    .td-text {
+        width: 132px;
+    }
+    .img-for-table {
+        right: 5.7%;
+        bottom: 3.4%;
+        width: 159px;
+        height: 257px;
+    }
+}
+
+@media (max-width: 360px) {
+    .main {
+        width: 360px;
+    }
+    .header {
+        width: 360px;
+    }
+    .header-contact {
+        width: 130px;
+        font-size: 12px;
+    }
+    .header-map {
+        width: 150px;
+        margin-left: -6px;
+        text-align: center;
+    }
+    .container-box {
+        height: 740px;
+    }
+    .container-section {
+        width: 100%;
+    }
+    .footer {
+        width: 360px;
+    }
+    .title {
+        margin-bottom: 30px;
+    }
+    /* прайс */
+    .table_bottom {
+        width: 48.9%;
+    }
+    .img-for-table {
+        right: 6%;
+        width: 148px;
+    }
+}
+
+@media (max-width: 360px) {
+    .link-social {
+        width: 150px;
+    }
+}
+
+@media (max-width: 360px) {
+    .td-price {
+        width: 83px;
+    }
+}
+
+@media (max-width: 280px) {
+    .logo {
+        font-size: 14px;
+    }
+    .header-contact {
+        width: 150px;
+        line-height: 21px;
+        justify-content: flex-start;
+    }
+    .container-box {
+        height: 880px;
+    }
+    .container-section {
+        top: 250px;
+    }
+}

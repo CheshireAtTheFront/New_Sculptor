@@ -1,22 +1,16 @@
-function funRules() {
-	if (rules = true) {
-	let rules = document.getElementById('rules-js');
-	// let iframe = document.getElementById('iframe-rules');
-			rules.addEventListener("click", () => {
-			document.getElementById('iframe-rules').style = "display: block;"
+let rules = document.getElementById('rules-js');
+let close = document.getElementById('close-js');
+let iframe = document.getElementById('iframe-rules');
 
-		});
-	} 
-		if (close = true) {
-			let close = document.getElementById('close-js');
-			close.addEventListener("click", () => {
-			document.getElementById('iframe-rules').style = "display: none;"
-			});
-	
-		}
+rules.addEventListener("click", funOpen);
+close.addEventListener("click", funClose);
+
+function funOpen() {
+    if (rules = true) {
+        iframe.style = "display: block;";
+    }
 }
-funRules();
 
-// rules
-
-// let iframeRules =
+function funClose() {
+    iframe.style = "display: none;"
+}

@@ -1,7 +1,7 @@
 .box-coaches {
     position: relative;
-    top: 690px;
-    margin: 0 auto 130px;
+    top: 610px;
+    margin: 0 auto 150px;
     padding: 0 16px;
     width: 100%;
     max-width: 1903px;
@@ -30,6 +30,7 @@
     bottom: 100%;
     width: 360px;
     height: 464px;
+    transition-duration: 0.5s;
 }
 
 .mask {
